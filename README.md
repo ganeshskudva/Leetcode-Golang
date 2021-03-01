@@ -8,3 +8,4 @@ Leetcode Solutions in Go
 |[946](https://leetcode.com/problems/validate-stack-sequences/)| Validate Stack Sequences| Medium|
 |[29](https://leetcode.com/problems/divide-two-integers/)| Divide Two Integers| Medium|
 |[1](https://leetcode.com/problems/two-sum/)| Two Sum| Easy|
+|[575](https://leetcode.com/problems/distribute-candies/)| Distribute Candies| Easy|
