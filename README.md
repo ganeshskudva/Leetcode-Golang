@@ -12,3 +12,4 @@ Leetcode Solutions in Go
 |[1365](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)| How Many Numbers Are Smaller Than the Current Number| Easy|
 |[1773](https://leetcode.com/problems/count-items-matching-a-rule/)| Count Items Matching a Rule| Easy|
 |[645](https://leetcode.com/problems/set-mismatch/)| Set Mismatch| Easy|
+|[268](https://leetcode.com/problems/missing-number/)| Missing Number| Easy|
