@@ -13,3 +13,4 @@ Leetcode Solutions in Go
 |[1773](https://leetcode.com/problems/count-items-matching-a-rule/)| Count Items Matching a Rule| Easy|
 |[645](https://leetcode.com/problems/set-mismatch/)| Set Mismatch| Easy|
 |[268](https://leetcode.com/problems/missing-number/)| Missing Number| Easy|
+|[160](https://leetcode.com/problems/intersection-of-two-linked-lists/)| Intersection of Two Linked Lists| Easy|
