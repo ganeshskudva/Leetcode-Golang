@@ -16,3 +16,4 @@ Leetcode Solutions in Go
 |[160](https://leetcode.com/problems/intersection-of-two-linked-lists/)| Intersection of Two Linked Lists| Easy|
 |[637](https://leetcode.com/problems/average-of-levels-in-binary-tree/)| Average of Levels in Binary Tree| Easy|
 |[559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| Maximum Depth of N-ary Tree| Easy|
+|[690](https://leetcode.com/problems/employee-importance/)| Employee Importance| Easy|
