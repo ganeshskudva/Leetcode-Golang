@@ -1,7 +1,7 @@
 # Leetcode-Golang
 Leetcode Solutions in Go
 
-##Easy
+## Easy
 |LC #|Description|
 |:-:|:-|
 |[1480](https://leetcode.com/problems/running-sum-of-1d-array/)| Running Sum of 1d Array|
@@ -18,7 +18,7 @@ Leetcode Solutions in Go
 |[690](https://leetcode.com/problems/employee-importance/)| Employee Importance|
 |[993](https://leetcode.com/problems/cousins-in-binary-tree/)| Cousins in Binary Tree|
 
-##Medium
+## Medium
 |LC #|Description|
 |:-:|:-|
 |[946](https://leetcode.com/problems/validate-stack-sequences/)| Validate Stack Sequences|
