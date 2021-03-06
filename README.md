@@ -18,3 +18,4 @@ Leetcode Solutions in Go
 |[559](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/)| Maximum Depth of N-ary Tree| Easy|
 |[690](https://leetcode.com/problems/employee-importance/)| Employee Importance| Easy|
 |[993](https://leetcode.com/problems/cousins-in-binary-tree/)| Cousins in Binary Tree| Easy|
+|[820](https://leetcode.com/problems/short-encoding-of-words/)| Short Encoding of Words| Medium|
