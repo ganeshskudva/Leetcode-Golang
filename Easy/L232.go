@@ -1,44 +1,43 @@
 type MyQueue struct {
-	q []int
+	in, out []int
 }
 
 /** Initialize your data structure here. */
 func Constructor() MyQueue {
-	return MyQueue{q: make([]int, 0)}
+	return MyQueue{
+		in:  make([]int, 0),
+		out: make([]int, 0),
+	}
 }
 
 /** Push element x to the back of queue. */
 func (this *MyQueue) Push(x int) {
-	this.q = append(this.q, x)
+	this.in = append(this.in, x)
 }
 
 /** Removes the element from in front of queue and returns that element. */
-package Easy
-
 func (this *MyQueue) Pop() int {
-	if this.Empty() {
-		return 0
-	}
-	ret := this.q[0]
-	this.q = this.q[1:]
+	this.Peek()
+	ret := this.out[0]
+	this.out = this.out[1:]
 	return ret
 }
 
 /** Get the front element. */
 func (this *MyQueue) Peek() int {
-	if this.Empty() {
-		return 0
+	if len(this.out) == 0 {
+		for len(this.in) > 0 {
+			this.out = append(this.out, this.in[0])
+			this.in = this.in[1:]
+		}
 	}
-	return this.q[0]
+	
+	return this.out[0]
 }
 
 /** Returns whether the queue is empty. */
 func (this *MyQueue) Empty() bool {
-	if len(this.q) == 0 {
-		return true
-	}
-
-	return false
+	return len(this.in) == 0 && len(this.out) == 0
 }
 
 
