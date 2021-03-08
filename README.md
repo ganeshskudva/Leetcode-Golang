@@ -19,6 +19,7 @@ Leetcode Solutions in Go
 |[993](https://leetcode.com/problems/cousins-in-binary-tree/)| Cousins in Binary Tree|
 |[1748](https://leetcode.com/problems/sum-of-unique-elements/)| Sum of Unique Elements|
 |[232](https://leetcode.com/problems/implement-queue-using-stacks/)| Implement Queue using Stacks|
+|[1332](https://leetcode.com/problems/remove-palindromic-subsequences/)| Remove Palindromic Subsequences|
 
 ## Medium
 |LC #|Description|
