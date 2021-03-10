@@ -32,3 +32,4 @@ Leetcode Solutions in Go
 |[623](https://leetcode.com/problems/add-one-row-to-tree/)| Add One Row to Tree|
 |[12](https://leetcode.com/problems/integer-to-roman/)| Integer to Roman|
 |[1315](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)| Sum of Nodes with Even-Valued Grandparent|
+|[1302](https://leetcode.com/problems/deepest-leaves-sum/)| Deepest Leaves Sum|
