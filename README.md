@@ -21,6 +21,7 @@ Leetcode Solutions in Go
 |[232](https://leetcode.com/problems/implement-queue-using-stacks/)| Implement Queue using Stacks|
 |[1332](https://leetcode.com/problems/remove-palindromic-subsequences/)| Remove Palindromic Subsequences|
 |[1678](https://leetcode.com/problems/goal-parser-interpretation/)| Goal Parser Interpretation|
+|[1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| Sum of Root To Leaf Binary Numbers|
 
 ## Medium
 |LC #|Description|
