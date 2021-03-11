@@ -34,3 +34,4 @@ Leetcode Solutions in Go
 |[1315](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/)| Sum of Nodes with Even-Valued Grandparent|
 |[1302](https://leetcode.com/problems/deepest-leaves-sum/)| Deepest Leaves Sum|
 |[322](https://leetcode.com/problems/coin-change/)| Coin Change|
+|[1305](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)| All Elements in Two Binary Search Trees|
