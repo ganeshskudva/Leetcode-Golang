@@ -36,3 +36,4 @@ Leetcode Solutions in Go
 |[1302](https://leetcode.com/problems/deepest-leaves-sum/)| Deepest Leaves Sum|
 |[322](https://leetcode.com/problems/coin-change/)| Coin Change|
 |[1305](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)| All Elements in Two Binary Search Trees|
+|[1461](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/)| Check If a String Contains All Binary Codes of Size K|
