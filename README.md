@@ -22,6 +22,7 @@ Leetcode Solutions in Go
 |[1332](https://leetcode.com/problems/remove-palindromic-subsequences/)| Remove Palindromic Subsequences|
 |[1678](https://leetcode.com/problems/goal-parser-interpretation/)| Goal Parser Interpretation|
 |[1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| Sum of Root To Leaf Binary Numbers|
+|[404](https://leetcode.com/problems/sum-of-left-leaves/)| Sum of Left Leaves|
 
 ## Medium
 |LC #|Description|
