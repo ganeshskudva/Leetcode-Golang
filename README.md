@@ -23,6 +23,7 @@ Leetcode Solutions in Go
 |[1678](https://leetcode.com/problems/goal-parser-interpretation/)| Goal Parser Interpretation|
 |[1022](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/)| Sum of Root To Leaf Binary Numbers|
 |[404](https://leetcode.com/problems/sum-of-left-leaves/)| Sum of Left Leaves|
+|[112](https://leetcode.com/problems/path-sum/)| Path Sum|
 
 ## Medium
 |LC #|Description|
