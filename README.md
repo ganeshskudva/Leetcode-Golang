@@ -47,3 +47,4 @@ Leetcode Solutions in Go
 |[208](https://leetcode.com/problems/implement-trie-prefix-tree/)| Implement Trie (Prefix Tree)|
 |[376](https://leetcode.com/problems/wiggle-subsequence/)| Wiggle Subsequence|
 |[38](https://leetcode.com/problems/count-and-say/)| Count and Say|
+|[146](https://leetcode.com/problems/lru-cache/)| LRU Cache|
