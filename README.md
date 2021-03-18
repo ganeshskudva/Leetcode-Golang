@@ -45,3 +45,4 @@ Leetcode Solutions in Go
 |[478](https://leetcode.com/problems/generate-random-point-in-a-circle/)| Generate Random Point in a Circle|
 |[208](https://leetcode.com/problems/implement-trie-prefix-tree/)| Implement Trie (Prefix Tree)|
 |[376](https://leetcode.com/problems/wiggle-subsequence/)| Wiggle Subsequence|
+|[38](https://leetcode.com/problems/count-and-say/)| Count and Say|
