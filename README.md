@@ -25,6 +25,7 @@ Leetcode Solutions in Go
 |[404](https://leetcode.com/problems/sum-of-left-leaves/)| Sum of Left Leaves|
 |[112](https://leetcode.com/problems/path-sum/)| Path Sum|
 |[535](https://leetcode.com/problems/encode-and-decode-tinyurl/)| Encode and Decode TinyURL|
+|[1560](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)| Most Visited Sector in a Circular Track|
 
 ## Medium
 |LC #|Description|
