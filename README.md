@@ -26,6 +26,7 @@ Leetcode Solutions in Go
 |[112](https://leetcode.com/problems/path-sum/)| Path Sum|
 |[535](https://leetcode.com/problems/encode-and-decode-tinyurl/)| Encode and Decode TinyURL|
 |[1560](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)| Most Visited Sector in a Circular Track|
+|[598](https://leetcode.com/problems/range-addition-ii/)| Range Addition II|
 
 ## Medium
 |LC #|Description|
