@@ -1,6 +1,8 @@
 # Leetcode-Golang
 Leetcode Solutions in Go
 
+Please give this repo a ⭐ if it inspires you.
+
 ## Easy
 |LC #|Description|
 |:-:|:-|
