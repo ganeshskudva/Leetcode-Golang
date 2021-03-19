@@ -29,6 +29,7 @@ Please give this repo a ⭐ if it inspires you.
 |[535](https://leetcode.com/problems/encode-and-decode-tinyurl/)| Encode and Decode TinyURL|
 |[1560](https://leetcode.com/problems/most-visited-sector-in-a-circular-track/)| Most Visited Sector in a Circular Track|
 |[598](https://leetcode.com/problems/range-addition-ii/)| Range Addition II|
+|[762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)| Prime Number of Set Bits in Binary Representation|
 
 ## Medium
 |LC #|Description|
