@@ -57,3 +57,4 @@ Please give this repo a ⭐ if it inspires you.
 |[841](https://leetcode.com/problems/keys-and-rooms/)| Keys And Rooms|
 |[113](https://leetcode.com/problems/path-sum-ii/)| Path Sum II|
 |[1398](https://leetcode.com/problems/design-underground-system/)| Design Underground System|
+|[1797](https://leetcode.com/problems/design-authentication-manager/)| Design Authentication Manager|
