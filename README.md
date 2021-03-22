@@ -61,3 +61,4 @@ Please give this repo a ⭐ if it inspires you.
 |[1797](https://leetcode.com/problems/design-authentication-manager/)| Design Authentication Manager|
 |[1798](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/)| Maximum Number of Consecutive Values You Can Make|
 |[966](https://leetcode.com/problems/vowel-spellchecker/)| Vowel Spellchecker|
+|[1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)| Partitioning Into Minimum Number Of Deci-Binary Numbers|
