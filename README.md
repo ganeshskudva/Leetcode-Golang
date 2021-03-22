@@ -59,3 +59,4 @@ Please give this repo a ⭐ if it inspires you.
 |[1398](https://leetcode.com/problems/design-underground-system/)| Design Underground System|
 |[1797](https://leetcode.com/problems/design-authentication-manager/)| Design Authentication Manager|
 |[1798](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/)| Maximum Number of Consecutive Values You Can Make|
+|[966](https://leetcode.com/problems/vowel-spellchecker/)| Vowel Spellchecker|
