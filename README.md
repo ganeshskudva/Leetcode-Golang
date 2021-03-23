@@ -62,3 +62,4 @@ Please give this repo a ⭐ if it inspires you.
 |[1798](https://leetcode.com/problems/maximum-number-of-consecutive-values-you-can-make/)| Maximum Number of Consecutive Values You Can Make|
 |[966](https://leetcode.com/problems/vowel-spellchecker/)| Vowel Spellchecker|
 |[1689](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)| Partitioning Into Minimum Number Of Deci-Binary Numbers|
+|[1764](https://leetcode.com/problems/form-array-by-concatenating-subarrays-of-another-array/)| Form Array by Concatenating Subarrays of Another Array|
