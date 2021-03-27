@@ -66,3 +66,5 @@ Please give this repo a ⭐ if it inspires you.
 |[923](https://leetcode.com/problems/3sum-with-multiplicity/)| 3Sum With Multiplicity|
 |[417](https://leetcode.com/problems/pacific-atlantic-water-flow/)| Pacific Atlantic Water Flow|
 |[916](https://leetcode.com/problems/word-subsets/)| Word Subsets|
+|[5](https://leetcode.com/problems/longest-palindromic-substring/)| Longest Palindromic Substring|
+|[647](https://leetcode.com/problems/palindromic-substrings/)| Palindromic Substrings|
