@@ -70,3 +70,8 @@ Please give this repo a ⭐ if it inspires you.
 |[5](https://leetcode.com/problems/longest-palindromic-substring/)| Longest Palindromic Substring|
 |[647](https://leetcode.com/problems/palindromic-substrings/)| Palindromic Substrings|
 |[971](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)| Flip Binary Tree To Match Preorder Traversal|
+
+## Hard
+|LC #|Description|
+|:-:|:-|
+|[354](https://leetcode.com/problems/russian-doll-envelopes/)| Russian Doll Envelopes|
