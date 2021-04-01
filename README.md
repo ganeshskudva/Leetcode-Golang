@@ -32,6 +32,7 @@ Please give this repo a ⭐ if it inspires you.
 |[762](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/)| Prime Number of Set Bits in Binary Representation|
 |[500](https://leetcode.com/problems/keyboard-row/)| Keyboard Row|
 |[1656](https://leetcode.com/problems/design-an-ordered-stream/)| Design an Ordered Stream|
+|[234](https://leetcode.com/problems/palindrome-linked-list/)| Palindrome Linked List|
 
 ## Medium
 |LC #|Description|
