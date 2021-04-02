@@ -74,6 +74,7 @@ Please give this repo a ⭐ if it inspires you.
 |[971](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)| Flip Binary Tree To Match Preorder Traversal|
 |[1726](https://leetcode.com/problems/tuple-with-same-product/)| Tuple with Same Product|
 |[474](https://leetcode.com/problems/ones-and-zeroes/)| Ones and Zeroes|
+|[1488](https://leetcode.com/problems/avoid-flood-in-the-city/)| Avoid Flood in The City|
 
 ## Hard
 |LC #|Description|
