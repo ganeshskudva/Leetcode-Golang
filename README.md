@@ -33,6 +33,7 @@ Please give this repo a ⭐ if it inspires you.
 |[500](https://leetcode.com/problems/keyboard-row/)| Keyboard Row|
 |[1656](https://leetcode.com/problems/design-an-ordered-stream/)| Design an Ordered Stream|
 |[234](https://leetcode.com/problems/palindrome-linked-list/)| Palindrome Linked List|
+|[1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)| Maximum Nesting Depth of the Parentheses|
 
 ## Medium
 |LC #|Description|
