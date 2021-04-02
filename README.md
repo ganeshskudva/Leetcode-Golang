@@ -73,6 +73,7 @@ Please give this repo a ⭐ if it inspires you.
 |[647](https://leetcode.com/problems/palindromic-substrings/)| Palindromic Substrings|
 |[971](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/)| Flip Binary Tree To Match Preorder Traversal|
 |[1726](https://leetcode.com/problems/tuple-with-same-product/)| Tuple with Same Product|
+|[474](https://leetcode.com/problems/ones-and-zeroes/)| Ones and Zeroes|
 
 ## Hard
 |LC #|Description|
