@@ -75,6 +75,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1726](https://leetcode.com/problems/tuple-with-same-product/)| Tuple with Same Product|
 |[474](https://leetcode.com/problems/ones-and-zeroes/)| Ones and Zeroes|
 |[1488](https://leetcode.com/problems/avoid-flood-in-the-city/)| Avoid Flood in The City|
+|[947](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)| Most Stones Removed with Same Row or Column|
 
 ## Hard
 |LC #|Description|
