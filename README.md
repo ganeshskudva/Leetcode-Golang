@@ -81,3 +81,4 @@ Please give this repo a ⭐ if it inspires you.
 |:-:|:-|
 |[354](https://leetcode.com/problems/russian-doll-envelopes/)| Russian Doll Envelopes|
 |[936](https://leetcode.com/problems/stamping-the-sequence/)| Stamping The Sequence|
+|[32](https://leetcode.com/problems/longest-valid-parentheses/)| Longest Valid Parentheses|
