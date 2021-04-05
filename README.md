@@ -34,6 +34,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1656](https://leetcode.com/problems/design-an-ordered-stream/)| Design an Ordered Stream|
 |[234](https://leetcode.com/problems/palindrome-linked-list/)| Palindrome Linked List|
 |[1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)| Maximum Nesting Depth of the Parentheses|
+|[1668](https://leetcode.com/problems/maximum-repeating-substring/)| Maximum Repeating Substring|
 
 ## Medium
 |LC #|Description|
