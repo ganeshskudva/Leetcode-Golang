@@ -35,6 +35,7 @@ Please give this repo a ⭐ if it inspires you.
 |[234](https://leetcode.com/problems/palindrome-linked-list/)| Palindrome Linked List|
 |[1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)| Maximum Nesting Depth of the Parentheses|
 |[1668](https://leetcode.com/problems/maximum-repeating-substring/)| Maximum Repeating Substring|
+|[1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/)| Determine if String Halves Are Alike|
 
 ## Medium
 |LC #|Description|
