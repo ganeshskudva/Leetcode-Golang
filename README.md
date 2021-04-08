@@ -80,6 +80,7 @@ Please give this repo a ⭐ if it inspires you.
 |[947](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)| Most Stones Removed with Same Row or Column|
 |[622](https://leetcode.com/problems/design-circular-queue/)| Design Circular Queue|
 |[1670](https://leetcode.com/problems/design-front-middle-back-queue/)| Design Front Middle Back Queue|
+|[494](https://leetcode.com/problems/target-sum/)| Target Sum|
 
 ## Hard
 |LC #|Description|
