@@ -36,6 +36,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1614](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)| Maximum Nesting Depth of the Parentheses|
 |[1668](https://leetcode.com/problems/maximum-repeating-substring/)| Maximum Repeating Substring|
 |[1704](https://leetcode.com/problems/determine-if-string-halves-are-alike/)| Determine if String Halves Are Alike|
+|[953](https://leetcode.com/problems/verifying-an-alien-dictionary/)| Verifying an Alien Dictionary|
 
 ## Medium
 |LC #|Description|
