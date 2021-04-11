@@ -83,6 +83,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1670](https://leetcode.com/problems/design-front-middle-back-queue/)| Design Front Middle Back Queue|
 |[494](https://leetcode.com/problems/target-sum/)| Target Sum|
 |[17](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)| Letter Combinations of a Phone Number|
+|[638](https://leetcode.com/problems/shopping-offers/)| Shopping Offers|
 
 ## Hard
 |LC #|Description|
