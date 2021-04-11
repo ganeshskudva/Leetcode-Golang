@@ -9,30 +9,31 @@ package Medium
  * }
  */
 func deepestLeavesSum(root *TreeNode) int {
-	if root == nil {
+    	if root == nil {
 		return 0
 	}
 	
 	sum := 0
-	q := make([]*TreeNode, 1, 10)
-	q[0] = root
+	var q []*TreeNode
+	q = append(q, root)
 	
 	for len(q) > 0 {
 		size := len(q)
 		sum = 0
-		for ; size > 0 ; size-- {
-			node := q[0]
+		for ; size > 0; size-- {
+			n := q[0]
 			q = q[1:]
 			
-			if node.Left == nil && node.Right == nil {
-				sum += node.Val
-			} else {
-				if node.Left != nil {
-					q = append(q, node.Left)
-				}
-				if node.Right != nil {
-					q = append(q, node.Right)
-				}
+			if n.Left == nil && n.Right == nil {
+				sum += n.Val
+			}
+			
+			if n.Left != nil {
+				q = append(q, n.Left)
+			}
+			
+			if n.Right != nil {
+				q = append(q, n.Right)
 			}
 		}
 	}
