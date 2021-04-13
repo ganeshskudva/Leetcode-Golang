@@ -86,6 +86,7 @@ Please give this repo a ⭐ if it inspires you.
 |[638](https://leetcode.com/problems/shopping-offers/)| Shopping Offers|
 |[667](https://leetcode.com/problems/beautiful-arrangement-ii/)| Beautiful Arrangement II|
 |[650](https://leetcode.com/problems/2-keys-keyboard/)| 2 Keys Keyboard|
+|[801](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)| Minimum Swaps To Make Sequences Increasing|
 
 ## Hard
 |LC #|Description|
