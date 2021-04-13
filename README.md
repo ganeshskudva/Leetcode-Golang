@@ -87,6 +87,7 @@ Please give this repo a ⭐ if it inspires you.
 |[667](https://leetcode.com/problems/beautiful-arrangement-ii/)| Beautiful Arrangement II|
 |[650](https://leetcode.com/problems/2-keys-keyboard/)| 2 Keys Keyboard|
 |[801](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)| Minimum Swaps To Make Sequences Increasing|
+|[341](https://leetcode.com/problems/flatten-nested-list-iterator/)| Flatten Nested List Iterator|
 
 ## Hard
 |LC #|Description|
