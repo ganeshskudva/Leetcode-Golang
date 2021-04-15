@@ -1,4 +1,4 @@
-package Medium
+package Easy
 
 func fib(n int) int {
 	mp := make(map[int]int)
