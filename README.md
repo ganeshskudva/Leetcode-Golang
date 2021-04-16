@@ -90,6 +90,7 @@ Please give this repo a ⭐ if it inspires you.
 |[801](https://leetcode.com/problems/minimum-swaps-to-make-sequences-increasing/)| Minimum Swaps To Make Sequences Increasing|
 |[341](https://leetcode.com/problems/flatten-nested-list-iterator/)| Flatten Nested List Iterator|
 |[86](https://leetcode.com/problems/partition-list/)| Partition List|
+|[91](https://leetcode.com/problems/decode-ways/)| Decode Ways|
 
 ## Hard
 |LC #|Description|
