@@ -96,6 +96,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1209](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)| Remove All Adjacent Duplicates in String II|
 |[279](https://leetcode.com/problems/perfect-squares/)| Perfect Squares|
 |[377](https://leetcode.com/problems/combination-sum-iv/)| Combination Sum IV|
+|[120](https://leetcode.com/problems/triangle/)| Triangle|
 
 ## Hard
 |LC #|Description|
