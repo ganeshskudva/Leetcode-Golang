@@ -97,6 +97,7 @@ Please give this repo a ⭐ if it inspires you.
 |[279](https://leetcode.com/problems/perfect-squares/)| Perfect Squares|
 |[377](https://leetcode.com/problems/combination-sum-iv/)| Combination Sum IV|
 |[120](https://leetcode.com/problems/triangle/)| Triangle|
+|[554](https://leetcode.com/problems/brick-wall/)| Brick Wall|
 
 ## Hard
 |LC #|Description|
