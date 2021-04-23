@@ -39,6 +39,7 @@ Please give this repo a ⭐ if it inspires you.
 |[953](https://leetcode.com/problems/verifying-an-alien-dictionary/)| Verifying an Alien Dictionary|
 |[509](https://leetcode.com/problems/fibonacci-number/)| Fibonacci Number|
 |[589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| N-ary Tree Preorder Traversal|
+|[696](https://leetcode.com/problems/count-binary-substrings/)| Count Binary Substrings|
 
 ## Medium
 |LC #|Description|
