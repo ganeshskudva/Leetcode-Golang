@@ -108,3 +108,4 @@ Please give this repo a ⭐ if it inspires you.
 |[32](https://leetcode.com/problems/longest-valid-parentheses/)| Longest Valid Parentheses|
 |[1559](https://leetcode.com/problems/detect-cycles-in-2d-grid/)| Detect Cycles in 2D Grid|
 |[329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)| Longest Increasing Path in a Matrix|
+|[1192](https://leetcode.com/problems/critical-connections-in-a-network/)| Critical Connections in a Network|
