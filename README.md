@@ -99,6 +99,7 @@ Please give this repo a ⭐ if it inspires you.
 |[377](https://leetcode.com/problems/combination-sum-iv/)| Combination Sum IV|
 |[120](https://leetcode.com/problems/triangle/)| Triangle|
 |[554](https://leetcode.com/problems/brick-wall/)| Brick Wall|
+|[48](https://leetcode.com/problems/rotate-image/)| Rotate Image|
 
 ## Hard
 |LC #|Description|
