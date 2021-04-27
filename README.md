@@ -102,6 +102,7 @@ Please give this repo a ⭐ if it inspires you.
 |[554](https://leetcode.com/problems/brick-wall/)| Brick Wall|
 |[48](https://leetcode.com/problems/rotate-image/)| Rotate Image|
 |[935](https://leetcode.com/problems/knight-dialer/)| Knight Dialer|
+|[740](https://leetcode.com/problems/delete-and-earn/)| Delete and Earn|
 
 ## Hard
 |LC #|Description|
