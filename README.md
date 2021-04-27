@@ -40,6 +40,7 @@ Please give this repo a ⭐ if it inspires you.
 |[509](https://leetcode.com/problems/fibonacci-number/)| Fibonacci Number|
 |[589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| N-ary Tree Preorder Traversal|
 |[696](https://leetcode.com/problems/count-binary-substrings/)| Count Binary Substrings|
+|[326](https://leetcode.com/problems/power-of-three/)| Power of Three|
 
 ## Medium
 |LC #|Description|
