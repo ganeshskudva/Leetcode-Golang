@@ -104,6 +104,7 @@ Please give this repo a ⭐ if it inspires you.
 |[935](https://leetcode.com/problems/knight-dialer/)| Knight Dialer|
 |[740](https://leetcode.com/problems/delete-and-earn/)| Delete and Earn|
 |[63](https://leetcode.com/problems/unique-paths-ii/)| Unique Paths II|
+|[34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| Find First and Last Position of Element in Sorted Array|
 
 ## Hard
 |LC #|Description|
