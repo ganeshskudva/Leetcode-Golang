@@ -118,3 +118,4 @@ Please give this repo a ⭐ if it inspires you.
 |[1192](https://leetcode.com/problems/critical-connections-in-a-network/)| Critical Connections in a Network|
 |[980](https://leetcode.com/problems/unique-paths-iii/)| Unique Paths III|
 |[745](https://leetcode.com/problems/prefix-and-suffix-search/)| Prefix and Suffix Search|
+|[630](https://leetcode.com/problems/course-schedule-iii/)| Course Schedule III|
