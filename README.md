@@ -117,3 +117,4 @@ Please give this repo a ⭐ if it inspires you.
 |[329](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)| Longest Increasing Path in a Matrix|
 |[1192](https://leetcode.com/problems/critical-connections-in-a-network/)| Critical Connections in a Network|
 |[980](https://leetcode.com/problems/unique-paths-iii/)| Unique Paths III|
+|[745](https://leetcode.com/problems/prefix-and-suffix-search/)| Prefix and Suffix Search|
