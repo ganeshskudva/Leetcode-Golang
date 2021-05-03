@@ -41,6 +41,7 @@ Please give this repo a ⭐ if it inspires you.
 |[589](https://leetcode.com/problems/n-ary-tree-preorder-traversal/)| N-ary Tree Preorder Traversal|
 |[696](https://leetcode.com/problems/count-binary-substrings/)| Count Binary Substrings|
 |[326](https://leetcode.com/problems/power-of-three/)| Power of Three|
+|[703](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|  Kth Largest Element in a Stream|
 
 ## Medium
 |LC #|Description|
