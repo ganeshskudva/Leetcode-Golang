@@ -107,6 +107,7 @@ Please give this repo a ⭐ if it inspires you.
 |[63](https://leetcode.com/problems/unique-paths-ii/)| Unique Paths II|
 |[34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| Find First and Last Position of Element in Sorted Array|
 |[970](https://leetcode.com/problems/powerful-integers/)| Powerful Integers|
+|[665](https://leetcode.com/problems/non-decreasing-array/)| Non-decreasing Array|
 
 ## Hard
 |LC #|Description|
