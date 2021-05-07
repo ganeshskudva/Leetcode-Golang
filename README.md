@@ -110,6 +110,7 @@ Please give this repo a ⭐ if it inspires you.
 |[665](https://leetcode.com/problems/non-decreasing-array/)| Non-decreasing Array|
 |[1472](https://leetcode.com/problems/design-browser-history/)| Design Browser History|
 |[109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| Convert Sorted List to Binary Search Tree|
+|[583](https://leetcode.com/problems/delete-operation-for-two-strings/)| Delete Operation for Two Strings|
 
 ## Hard
 |LC #|Description|
