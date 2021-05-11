@@ -112,6 +112,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1472](https://leetcode.com/problems/design-browser-history/)| Design Browser History|
 |[109](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| Convert Sorted List to Binary Search Tree|
 |[583](https://leetcode.com/problems/delete-operation-for-two-strings/)| Delete Operation for Two Strings|
+|[1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)| Maximum Points You Can Obtain from Cards|
 
 ## Hard
 |LC #|Description|
