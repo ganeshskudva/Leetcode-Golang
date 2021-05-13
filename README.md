@@ -114,6 +114,7 @@ Please give this repo a ⭐ if it inspires you.
 |[583](https://leetcode.com/problems/delete-operation-for-two-strings/)| Delete Operation for Two Strings|
 |[1423](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/)| Maximum Points You Can Obtain from Cards|
 |[304](https://leetcode.com/problems/range-sum-query-2d-immutable/)| Range Sum Query 2D - Immutable|
+|[816](https://leetcode.com/problems/ambiguous-coordinates/)| Ambiguous Coordinates|
 
 ## Hard
 |LC #|Description|
