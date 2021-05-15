@@ -129,3 +129,4 @@ Please give this repo a ⭐ if it inspires you.
 |[980](https://leetcode.com/problems/unique-paths-iii/)| Unique Paths III|
 |[745](https://leetcode.com/problems/prefix-and-suffix-search/)| Prefix and Suffix Search|
 |[630](https://leetcode.com/problems/course-schedule-iii/)| Course Schedule III|
+|[65](https://leetcode.com/problems/valid-number/)| Valid Number|
