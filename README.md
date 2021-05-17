@@ -116,6 +116,7 @@ Please give this repo a ⭐ if it inspires you.
 |[304](https://leetcode.com/problems/range-sum-query-2d-immutable/)| Range Sum Query 2D - Immutable|
 |[816](https://leetcode.com/problems/ambiguous-coordinates/)| Ambiguous Coordinates|
 |[114](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| Flatten Binary Tree to Linked List|
+|[1048](https://leetcode.com/problems/longest-string-chain/)| Longest String Chain|
 
 ## Hard
 |LC #|Description|
