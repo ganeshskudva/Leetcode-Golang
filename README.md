@@ -131,3 +131,4 @@ Please give this repo a ⭐ if it inspires you.
 |[630](https://leetcode.com/problems/course-schedule-iii/)| Course Schedule III|
 |[65](https://leetcode.com/problems/valid-number/)| Valid Number|
 |[968](https://leetcode.com/problems/binary-tree-cameras/)| Binary Tree Cameras|
+|[1473](https://leetcode.com/problems/paint-house-iii/)| Paint House III|
