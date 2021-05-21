@@ -120,6 +120,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1048](https://leetcode.com/problems/longest-string-chain/)| Longest String Chain|
 |[213](https://leetcode.com/problems/house-robber-ii/)| House Robber II|
 |[462](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)| Minimum Moves to Equal Array Elements II|
+|[890](https://leetcode.com/problems/find-and-replace-pattern/)| Find and Replace Pattern|
 
 ## Hard
 |LC #|Description|
