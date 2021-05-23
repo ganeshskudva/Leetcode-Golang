@@ -122,6 +122,7 @@ Please give this repo a ⭐ if it inspires you.
 |[462](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/)| Minimum Moves to Equal Array Elements II|
 |[890](https://leetcode.com/problems/find-and-replace-pattern/)| Find and Replace Pattern|
 |[337](https://leetcode.com/problems/house-robber-iii/)| House Robber III|
+|[921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)| Minimum Add to Make Parentheses Valid|
 
 ## Hard
 |LC #|Description|
