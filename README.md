@@ -124,6 +124,7 @@ Please give this repo a ⭐ if it inspires you.
 |[890](https://leetcode.com/problems/find-and-replace-pattern/)| Find and Replace Pattern|
 |[337](https://leetcode.com/problems/house-robber-iii/)| House Robber III|
 |[921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)| Minimum Add to Make Parentheses Valid|
+|[1871](https://leetcode.com/problems/jump-game-vii/)| Jump Game VII|
 
 ## Hard
 |LC #|Description|
