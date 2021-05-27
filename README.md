@@ -126,6 +126,7 @@ Please give this repo a ⭐ if it inspires you.
 |[921](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)| Minimum Add to Make Parentheses Valid|
 |[1871](https://leetcode.com/problems/jump-game-vii/)| Jump Game VII|
 |[150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| Evaluate Reverse Polish Notation|
+|[318](https://leetcode.com/problems/maximum-product-of-word-lengths/)| Maximum Product of Word Lengths|
 
 ## Hard
 |LC #|Description|
