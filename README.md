@@ -127,6 +127,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1871](https://leetcode.com/problems/jump-game-vii/)| Jump Game VII|
 |[150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| Evaluate Reverse Polish Notation|
 |[318](https://leetcode.com/problems/maximum-product-of-word-lengths/)| Maximum Product of Word Lengths|
+|[1695](https://leetcode.com/problems/maximum-erasure-value/)| Maximum Erasure Value|
 
 ## Hard
 |LC #|Description|
