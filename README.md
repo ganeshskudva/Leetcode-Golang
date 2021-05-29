@@ -145,3 +145,4 @@ Please give this repo a ⭐ if it inspires you.
 |[968](https://leetcode.com/problems/binary-tree-cameras/)| Binary Tree Cameras|
 |[1473](https://leetcode.com/problems/paint-house-iii/)| Paint House III|
 |[51](https://leetcode.com/problems/n-queens/)| N-Queens|
+|[52](https://leetcode.com/problems/n-queens-ii/)| N-Queens II|
