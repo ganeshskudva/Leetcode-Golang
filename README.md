@@ -128,6 +128,7 @@ Please give this repo a ⭐ if it inspires you.
 |[150](https://leetcode.com/problems/evaluate-reverse-polish-notation/)| Evaluate Reverse Polish Notation|
 |[318](https://leetcode.com/problems/maximum-product-of-word-lengths/)| Maximum Product of Word Lengths|
 |[1695](https://leetcode.com/problems/maximum-erasure-value/)| Maximum Erasure Value|
+|[1268](https://leetcode.com/problems/search-suggestions-system/)| Search Suggestions System|
 
 ## Hard
 |LC #|Description|
