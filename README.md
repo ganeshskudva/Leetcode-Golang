@@ -129,6 +129,7 @@ Please give this repo a ⭐ if it inspires you.
 |[318](https://leetcode.com/problems/maximum-product-of-word-lengths/)| Maximum Product of Word Lengths|
 |[1695](https://leetcode.com/problems/maximum-erasure-value/)| Maximum Erasure Value|
 |[1268](https://leetcode.com/problems/search-suggestions-system/)| Search Suggestions System|
+|[695](https://leetcode.com/problems/max-area-of-island/)| Max Area of Island|
 
 ## Hard
 |LC #|Description|
