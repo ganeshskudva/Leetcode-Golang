@@ -131,6 +131,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1268](https://leetcode.com/problems/search-suggestions-system/)| Search Suggestions System|
 |[695](https://leetcode.com/problems/max-area-of-island/)| Max Area of Island|
 |[97](https://leetcode.com/problems/interleaving-string/)| Interleaving String|
+|[1465](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)| Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts|
 
 ## Hard
 |LC #|Description|
