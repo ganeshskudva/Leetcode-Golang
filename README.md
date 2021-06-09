@@ -134,6 +134,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1465](https://leetcode.com/problems/maximum-area-of-a-piece-of-cake-after-horizontal-and-vertical-cuts/)| Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts|
 |[128](https://leetcode.com/problems/longest-consecutive-sequence/)| Longest Consecutive Sequence|
 |[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| Construct Binary Tree from Preorder and Inorder Traversal|
+|[1696](https://leetcode.com/problems/jump-game-vi/)| Jump Game VI|
 
 ## Hard
 |LC #|Description|
