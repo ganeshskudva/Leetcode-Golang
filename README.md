@@ -45,6 +45,7 @@ Please give this repo a ⭐ if it inspires you.
 |[204](https://leetcode.com/problems/count-primes/)|  Count Primes|
 |[453](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/)| Minimum Moves to Equal Array Elements|
 |[709](https://leetcode.com/problems/to-lower-case/)| To Lower Case|
+|[1710](https://leetcode.com/problems/maximum-units-on-a-truck/)| Maximum Units on a Truck|
 
 ## Medium
 |LC #|Description|
