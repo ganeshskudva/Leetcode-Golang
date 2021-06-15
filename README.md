@@ -136,6 +136,7 @@ Please give this repo a ⭐ if it inspires you.
 |[128](https://leetcode.com/problems/longest-consecutive-sequence/)| Longest Consecutive Sequence|
 |[105](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)| Construct Binary Tree from Preorder and Inorder Traversal|
 |[1696](https://leetcode.com/problems/jump-game-vi/)| Jump Game VI|
+|[698](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)| Partition to K Equal Sum Subsets|
 
 ## Hard
 |LC #|Description|
