@@ -140,6 +140,7 @@ Please give this repo a ⭐ if it inspires you.
 |[22](https://leetcode.com/problems/generate-parentheses/)| Generate Parentheses|
 |[795](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)| Number of Subarrays with Bounded Maximum|
 |[118](https://leetcode.com/problems/pascals-triangle/)| Pascal's Triangle|
+|[576](https://leetcode.com/problems/out-of-boundary-paths/)| Out of Boundary Paths|
 
 ## Hard
 |LC #|Description|
