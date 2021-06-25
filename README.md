@@ -141,6 +141,7 @@ Please give this repo a ⭐ if it inspires you.
 |[795](https://leetcode.com/problems/number-of-subarrays-with-bounded-maximum/)| Number of Subarrays with Bounded Maximum|
 |[118](https://leetcode.com/problems/pascals-triangle/)| Pascal's Triangle|
 |[576](https://leetcode.com/problems/out-of-boundary-paths/)| Out of Boundary Paths|
+|[684](https://leetcode.com/problems/redundant-connection/)| Redundant Connection|
 
 ## Hard
 |LC #|Description|
