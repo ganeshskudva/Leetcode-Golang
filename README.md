@@ -161,3 +161,4 @@ Please give this repo a ⭐ if it inspires you.
 |[51](https://leetcode.com/problems/n-queens/)| N-Queens|
 |[52](https://leetcode.com/problems/n-queens-ii/)| N-Queens II|
 |[778](https://leetcode.com/problems/swim-in-rising-water/)| Swim in Rising Water|
+|[315](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)| Count of Smaller Numbers After Self|
