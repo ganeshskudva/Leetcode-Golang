@@ -145,6 +145,7 @@ Please give this repo a ⭐ if it inspires you.
 |[684](https://leetcode.com/problems/redundant-connection/)| Redundant Connection|
 |[1004](https://leetcode.com/problems/max-consecutive-ones-iii/)| Max Consecutive Ones III|
 |[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| Lowest Common Ancestor of a Binary Tree|
+|[89](https://leetcode.com/problems/gray-code/)| Gray Code|
 
 ## Hard
 |LC #|Description|
