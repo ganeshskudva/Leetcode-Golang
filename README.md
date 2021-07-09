@@ -148,6 +148,7 @@ Please give this repo a ⭐ if it inspires you.
 |[89](https://leetcode.com/problems/gray-code/)| Gray Code|
 |[378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| Kth Smallest Element in a Sorted Matrix|
 |[718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)| Maximum Length of Repeated Subarray|
+|[300](https://leetcode.com/problems/longest-increasing-subsequence/)| Longest Increasing Subsequence|
 
 ## Hard
 |LC #|Description|
