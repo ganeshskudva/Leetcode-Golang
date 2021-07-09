@@ -147,6 +147,7 @@ Please give this repo a ⭐ if it inspires you.
 |[236](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)| Lowest Common Ancestor of a Binary Tree|
 |[89](https://leetcode.com/problems/gray-code/)| Gray Code|
 |[378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| Kth Smallest Element in a Sorted Matrix|
+|[718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)| Maximum Length of Repeated Subarray|
 
 ## Hard
 |LC #|Description|
