@@ -149,6 +149,7 @@ Please give this repo a ⭐ if it inspires you.
 |[378](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/)| Kth Smallest Element in a Sorted Matrix|
 |[718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)| Maximum Length of Repeated Subarray|
 |[300](https://leetcode.com/problems/longest-increasing-subsequence/)| Longest Increasing Subsequence|
+|[162](https://leetcode.com/problems/find-peak-element/)| Find Peak Element|
 
 ## Hard
 |LC #|Description|
