@@ -150,6 +150,7 @@ Please give this repo a ⭐ if it inspires you.
 |[718](https://leetcode.com/problems/maximum-length-of-repeated-subarray/)| Maximum Length of Repeated Subarray|
 |[300](https://leetcode.com/problems/longest-increasing-subsequence/)| Longest Increasing Subsequence|
 |[162](https://leetcode.com/problems/find-peak-element/)| Find Peak Element|
+|[791](https://leetcode.com/problems/custom-sort-string/)| Custom Sort String|
 
 ## Hard
 |LC #|Description|
