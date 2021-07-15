@@ -151,6 +151,7 @@ Please give this repo a ⭐ if it inspires you.
 |[300](https://leetcode.com/problems/longest-increasing-subsequence/)| Longest Increasing Subsequence|
 |[162](https://leetcode.com/problems/find-peak-element/)| Find Peak Element|
 |[791](https://leetcode.com/problems/custom-sort-string/)| Custom Sort String|
+|[611](https://leetcode.com/problems/valid-triangle-number/)| Valid Triangle Number|
 
 ## Hard
 |LC #|Description|
