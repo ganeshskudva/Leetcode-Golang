@@ -152,6 +152,7 @@ Please give this repo a ⭐ if it inspires you.
 |[162](https://leetcode.com/problems/find-peak-element/)| Find Peak Element|
 |[791](https://leetcode.com/problems/custom-sort-string/)| Custom Sort String|
 |[611](https://leetcode.com/problems/valid-triangle-number/)| Valid Triangle Number|
+|[235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| Lowest Common Ancestor of a Binary Search Tree|
 
 ## Hard
 |LC #|Description|
