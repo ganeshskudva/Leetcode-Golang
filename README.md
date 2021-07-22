@@ -154,6 +154,7 @@ Please give this repo a ⭐ if it inspires you.
 |[611](https://leetcode.com/problems/valid-triangle-number/)| Valid Triangle Number|
 |[235](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)| Lowest Common Ancestor of a Binary Search Tree|
 |[838](https://leetcode.com/problems/push-dominoes/)| Push Dominoes|
+|[915](https://leetcode.com/problems/partition-array-into-disjoint-intervals/)| Partition Array into Disjoint Intervals|
 
 ## Hard
 |LC #|Description|
