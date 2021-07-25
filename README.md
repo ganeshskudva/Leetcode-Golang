@@ -179,3 +179,4 @@ Please give this repo a ⭐ if it inspires you.
 |[135](https://leetcode.com/problems/candy/)| Candy|
 |[927](https://leetcode.com/problems/three-equal-parts/)| Three Equal Parts|
 |[25](https://leetcode.com/problems/reverse-nodes-in-k-group/)| Reverse Nodes in k-Group|
+|[233](https://leetcode.com/problems/number-of-digit-one/)| Number of Digit One|
