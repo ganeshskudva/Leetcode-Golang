@@ -181,3 +181,4 @@ Please give this repo a ⭐ if it inspires you.
 |[927](https://leetcode.com/problems/three-equal-parts/)| Three Equal Parts|
 |[25](https://leetcode.com/problems/reverse-nodes-in-k-group/)| Reverse Nodes in k-Group|
 |[233](https://leetcode.com/problems/number-of-digit-one/)| Number of Digit One|
+|[42](https://leetcode.com/problems/trapping-rain-water/)| Trapping Rain Water|
