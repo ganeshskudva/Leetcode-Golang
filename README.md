@@ -159,6 +159,7 @@ Please give this repo a ⭐ if it inspires you.
 |[814](https://leetcode.com/problems/binary-tree-pruning/)| Binary Tree Pruning|
 |[90](https://leetcode.com/problems/subsets-ii/)| Subsets II|
 |[877](https://leetcode.com/problems/stone-game/)| Stone Game|
+|[429](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| N-ary Tree Level Order Traversal|
 
 ## Hard
 |LC #|Description|
