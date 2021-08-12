@@ -163,6 +163,7 @@ Please give this repo a ⭐ if it inspires you.
 |[429](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)| N-ary Tree Level Order Traversal|
 |[926](https://leetcode.com/problems/flip-string-to-monotone-increasing/)| Flip String to Monotone Increasing|
 |[954](https://leetcode.com/problems/array-of-doubled-pairs/)| Array of Doubled Pairs|
+|[49](https://leetcode.com/problems/group-anagrams/)| Group Anagrams|
 
 ## Hard
 |LC #|Description|
