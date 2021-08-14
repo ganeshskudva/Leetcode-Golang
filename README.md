@@ -191,3 +191,4 @@ Please give this repo a ⭐ if it inspires you.
 |[233](https://leetcode.com/problems/number-of-digit-one/)| Number of Digit One|
 |[42](https://leetcode.com/problems/trapping-rain-water/)| Trapping Rain Water|
 |[132](https://leetcode.com/problems/palindrome-partitioning-ii/)| Palindrome Partitioning II|
+|[546](https://leetcode.com/problems/remove-boxes/)| Remove Boxes|
