@@ -165,6 +165,7 @@ Please give this repo a ⭐ if it inspires you.
 |[954](https://leetcode.com/problems/array-of-doubled-pairs/)| Array of Doubled Pairs|
 |[49](https://leetcode.com/problems/group-anagrams/)| Group Anagrams|
 |[73](https://leetcode.com/problems/set-matrix-zeroes/)| Set Matrix Zeroes|
+|[1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)| Count Good Nodes in Binary Tree|
 
 ## Hard
 |LC #|Description|
