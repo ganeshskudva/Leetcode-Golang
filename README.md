@@ -194,3 +194,4 @@ Please give this repo a ⭐ if it inspires you.
 |[42](https://leetcode.com/problems/trapping-rain-water/)| Trapping Rain Water|
 |[132](https://leetcode.com/problems/palindrome-partitioning-ii/)| Palindrome Partitioning II|
 |[546](https://leetcode.com/problems/remove-boxes/)| Remove Boxes|
+|[37](https://leetcode.com/problems/sudoku-solver/)| Sudoku Solver|
