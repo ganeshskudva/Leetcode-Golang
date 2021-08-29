@@ -197,3 +197,4 @@ Please give this repo a ⭐ if it inspires you.
 |[546](https://leetcode.com/problems/remove-boxes/)| Remove Boxes|
 |[37](https://leetcode.com/problems/sudoku-solver/)| Sudoku Solver|
 |[850](https://leetcode.com/problems/rectangle-area-ii/)| Rectangle Area II|
+|[330](https://leetcode.com/problems/patching-array//)| Patching Array|
