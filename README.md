@@ -168,6 +168,7 @@ Please give this repo a ⭐ if it inspires you.
 |[73](https://leetcode.com/problems/set-matrix-zeroes/)| Set Matrix Zeroes|
 |[1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)| Count Good Nodes in Binary Tree|
 |[36](https://leetcode.com/problems/valid-sudoku/)| Valid Sudoku|
+|[153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| Find Minimum in Rotated Sorted Array|
 
 ## Hard
 |LC #|Description|
