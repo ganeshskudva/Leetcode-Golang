@@ -169,6 +169,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1448](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)| Count Good Nodes in Binary Tree|
 |[36](https://leetcode.com/problems/valid-sudoku/)| Valid Sudoku|
 |[153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| Find Minimum in Rotated Sorted Array|
+|[565](https://leetcode.com/problems/array-nesting/)| Array Nesting|
 
 ## Hard
 |LC #|Description|
