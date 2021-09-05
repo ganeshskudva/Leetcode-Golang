@@ -200,3 +200,4 @@ Please give this repo a ⭐ if it inspires you.
 |[37](https://leetcode.com/problems/sudoku-solver/)| Sudoku Solver|
 |[850](https://leetcode.com/problems/rectangle-area-ii/)| Rectangle Area II|
 |[330](https://leetcode.com/problems/patching-array//)| Patching Array|
+|[899](https://leetcode.com/problems/orderly-queue/)| Orderly Queue|
