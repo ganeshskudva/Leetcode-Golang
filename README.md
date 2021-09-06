@@ -50,6 +50,7 @@ Please give this repo a ⭐ if it inspires you.
 |[108](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| Convert Sorted Array to Binary Search Tree|
 |[415](https://leetcode.com/problems/add-strings/)| Add Strings|
 |[653](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| Two Sum IV - Input is a BST|
+|[1629](https://leetcode.com/problems/slowest-key/)| Slowest Key|
 
 ## Medium
 |LC #|Description|
