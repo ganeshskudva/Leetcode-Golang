@@ -51,6 +51,7 @@ Please give this repo a ⭐ if it inspires you.
 |[415](https://leetcode.com/problems/add-strings/)| Add Strings|
 |[653](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| Two Sum IV - Input is a BST|
 |[1629](https://leetcode.com/problems/slowest-key/)| Slowest Key|
+|[206](https://leetcode.com/problems/reverse-linked-list/)| Reverse Linked List|
 
 ## Medium
 |LC #|Description|
