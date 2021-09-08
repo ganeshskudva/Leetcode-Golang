@@ -172,6 +172,7 @@ Please give this repo a ⭐ if it inspires you.
 |[36](https://leetcode.com/problems/valid-sudoku/)| Valid Sudoku|
 |[153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| Find Minimum in Rotated Sorted Array|
 |[565](https://leetcode.com/problems/array-nesting/)| Array Nesting|
+|[848](https://leetcode.com/problems/shifting-letters/)| Shifting Letters|
 
 ## Hard
 |LC #|Description|
