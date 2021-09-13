@@ -52,6 +52,7 @@ Please give this repo a ⭐ if it inspires you.
 |[653](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/)| Two Sum IV - Input is a BST|
 |[1629](https://leetcode.com/problems/slowest-key/)| Slowest Key|
 |[206](https://leetcode.com/problems/reverse-linked-list/)| Reverse Linked List|
+|[1189](https://leetcode.com/problems/maximum-number-of-balloons/)| Maximum Number of Balloons|
 
 ## Medium
 |LC #|Description|
