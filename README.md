@@ -174,6 +174,7 @@ Please give this repo a ⭐ if it inspires you.
 |[153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)| Find Minimum in Rotated Sorted Array|
 |[565](https://leetcode.com/problems/array-nesting/)| Array Nesting|
 |[848](https://leetcode.com/problems/shifting-letters/)| Shifting Letters|
+|[978](https://leetcode.com/problems/longest-turbulent-subarray/)| Longest Turbulent Subarray|
 
 ## Hard
 |LC #|Description|
