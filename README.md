@@ -54,6 +54,7 @@ Please give this repo a ⭐ if it inspires you.
 |[206](https://leetcode.com/problems/reverse-linked-list/)| Reverse Linked List|
 |[1189](https://leetcode.com/problems/maximum-number-of-balloons/)| Maximum Number of Balloons|
 |[350](https://leetcode.com/problems/intersection-of-two-arrays-ii/)| Intersection of Two Arrays II|
+|[1275](https://leetcode.com/problems/find-winner-on-a-tic-tac-toe-game/)|  Find Winner on a Tic Tac Toe Game|
 
 ## Medium
 |LC #|Description|
