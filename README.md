@@ -179,6 +179,7 @@ Please give this repo a ⭐ if it inspires you.
 |[848](https://leetcode.com/problems/shifting-letters/)| Shifting Letters|
 |[978](https://leetcode.com/problems/longest-turbulent-subarray/)| Longest Turbulent Subarray|
 |[54](https://leetcode.com/problems/spiral-matrix/)| Spiral Matrix|
+|[1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)| Maximum Length of a Concatenated String with Unique Characters|
 
 ## Hard
 |LC #|Description|
