@@ -212,3 +212,4 @@ Please give this repo a ⭐ if it inspires you.
 |[330](https://leetcode.com/problems/patching-array//)| Patching Array|
 |[899](https://leetcode.com/problems/orderly-queue/)| Orderly Queue|
 |[224](https://leetcode.com/problems/basic-calculator/)| Basic Calculator|
+|[782](https://leetcode.com/problems/transform-to-chessboard/)| Transform to Chessboard|
