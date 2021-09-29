@@ -182,6 +182,7 @@ Please give this repo a ⭐ if it inspires you.
 |[978](https://leetcode.com/problems/longest-turbulent-subarray/)| Longest Turbulent Subarray|
 |[54](https://leetcode.com/problems/spiral-matrix/)| Spiral Matrix|
 |[1239](https://leetcode.com/problems/maximum-length-of-a-concatenated-string-with-unique-characters/)| Maximum Length of a Concatenated String with Unique Characters|
+|[725](https://leetcode.com/problems/split-linked-list-in-parts/)| Split Linked List in Parts|
 
 ## Hard
 |LC #|Description|
