@@ -185,6 +185,7 @@ Please give this repo a ⭐ if it inspires you.
 |[725](https://leetcode.com/problems/split-linked-list-in-parts/)| Split Linked List in Parts|
 |[473](https://leetcode.com/problems/matchsticks-to-square/)| Matchsticks to Square|
 |[1143](https://leetcode.com/problems/longest-common-subsequence/)| Longest Common Subsequence|
+|[55](https://leetcode.com/problems/jump-game/)| Jump Game|
 
 ## Hard
 |LC #|Description|
