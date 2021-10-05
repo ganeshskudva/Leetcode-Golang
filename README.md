@@ -59,6 +59,7 @@ Please give this repo a ⭐ if it inspires you.
 |[929](https://leetcode.com/problems/unique-email-addresses/)|  Unique Email Addresses|
 |[922](https://leetcode.com/problems/sort-array-by-parity-ii/)|  Sort Array By Parity II|
 |[463](https://leetcode.com/problems/island-perimeter/)|  Island Perimeter|
+|[70](https://leetcode.com/problems/climbing-stairs/)|  Climbing Stairs|
 
 ## Medium
 |LC #|Description|
