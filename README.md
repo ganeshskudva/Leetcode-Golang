@@ -188,6 +188,7 @@ Please give this repo a ⭐ if it inspires you.
 |[473](https://leetcode.com/problems/matchsticks-to-square/)| Matchsticks to Square|
 |[1143](https://leetcode.com/problems/longest-common-subsequence/)| Longest Common Subsequence|
 |[55](https://leetcode.com/problems/jump-game/)| Jump Game|
+|[442](https://leetcode.com/problems/find-all-duplicates-in-an-array/)| Find All Duplicates in an Array|
 
 ## Hard
 |LC #|Description|
