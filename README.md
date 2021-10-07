@@ -189,6 +189,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1143](https://leetcode.com/problems/longest-common-subsequence/)| Longest Common Subsequence|
 |[55](https://leetcode.com/problems/jump-game/)| Jump Game|
 |[442](https://leetcode.com/problems/find-all-duplicates-in-an-array/)| Find All Duplicates in an Array|
+|[79](https://leetcode.com/problems/word-search/)| Word Search|
 
 ## Hard
 |LC #|Description|
