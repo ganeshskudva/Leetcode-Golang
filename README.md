@@ -190,6 +190,7 @@ Please give this repo a ⭐ if it inspires you.
 |[55](https://leetcode.com/problems/jump-game/)| Jump Game|
 |[442](https://leetcode.com/problems/find-all-duplicates-in-an-array/)| Find All Duplicates in an Array|
 |[79](https://leetcode.com/problems/word-search/)| Word Search|
+|[201](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| Bitwise AND of Numbers Range|
 
 ## Hard
 |LC #|Description|
