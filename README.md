@@ -60,6 +60,7 @@ Please give this repo a ⭐ if it inspires you.
 |[922](https://leetcode.com/problems/sort-array-by-parity-ii/)|  Sort Array By Parity II|
 |[463](https://leetcode.com/problems/island-perimeter/)|  Island Perimeter|
 |[70](https://leetcode.com/problems/climbing-stairs/)|  Climbing Stairs|
+|[543](https://leetcode.com/problems/diameter-of-binary-tree/)| Diameter of Binary Tree|
 
 ## Medium
 |LC #|Description|
