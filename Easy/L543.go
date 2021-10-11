@@ -1,4 +1,4 @@
-package Medium
+package Easy
 
 func diameterOfBinaryTree(root *TreeNode) int {
 	max := 0
