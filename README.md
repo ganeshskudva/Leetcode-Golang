@@ -192,6 +192,7 @@ Please give this repo a ⭐ if it inspires you.
 |[442](https://leetcode.com/problems/find-all-duplicates-in-an-array/)| Find All Duplicates in an Array|
 |[79](https://leetcode.com/problems/word-search/)| Word Search|
 |[201](https://leetcode.com/problems/bitwise-and-of-numbers-range/)| Bitwise AND of Numbers Range|
+|[1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| Construct Binary Search Tree from Preorder Traversal|
 
 ## Hard
 |LC #|Description|
