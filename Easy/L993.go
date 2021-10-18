@@ -5,8 +5,8 @@ func isCousins(root *TreeNode, x int, y int) bool {
 		return false
 	}
 
-	q := make([]*TreeNode, 1, 10)
-	q[0] = root
+	var q []*TreeNode
+	q = append(q, root)
 	var xExist, yExist bool
 
 	for len(q) > 0 {
