@@ -62,6 +62,7 @@ Please give this repo a ⭐ if it inspires you.
 |[70](https://leetcode.com/problems/climbing-stairs/)|  Climbing Stairs|
 |[543](https://leetcode.com/problems/diameter-of-binary-tree/)| Diameter of Binary Tree|
 |[374](https://leetcode.com/problems/guess-number-higher-or-lower/)| Guess Number Higher or Lower|
+|[496](https://leetcode.com/problems/next-greater-element-i/)| Next Greater Element I|
 
 ## Medium
 |LC #|Description|
