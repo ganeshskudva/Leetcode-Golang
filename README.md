@@ -197,6 +197,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1008](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)| Construct Binary Search Tree from Preorder Traversal|
 |[309](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)| Best Time to Buy and Sell Stock with Cooldown|
 |[437](https://leetcode.com/problems/path-sum-iii/)| Path Sum III|
+|[4511](https://leetcode.com/problems/sort-characters-by-frequency/)| Sort Characters By Frequency|
 
 ## Hard
 |LC #|Description|
