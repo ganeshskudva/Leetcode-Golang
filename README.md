@@ -202,6 +202,7 @@ Please give this repo a ⭐ if it inspires you.
 |[4511](https://leetcode.com/problems/sort-characters-by-frequency/)| Sort Characters By Frequency|
 |[222](https://leetcode.com/problems/count-complete-tree-nodes/)| Count Complete Tree Nodes|
 |[75](https://leetcode.com/problems/sort-colors/)| Sort Colors|
+|[15](https://leetcode.com/problems/3sum/)| 3Sum|
 
 ## Hard
 |LC #|Description|
