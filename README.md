@@ -206,6 +206,7 @@ Please give this repo a ⭐ if it inspires you.
 |[994](https://leetcode.com/problems/rotting-oranges/)| Rotting Oranges|
 |[430](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/)| Flatten a Multilevel Doubly Linked List|
 |[130](https://leetcode.com/problems/surrounded-regions/)| Surrounded Regions|
+|[129](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| Sum Root to Leaf Numbers|
 
 ## Hard
 |LC #|Description|
