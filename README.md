@@ -65,6 +65,7 @@ Please give this repo a ⭐ if it inspires you.
 |[496](https://leetcode.com/problems/next-greater-element-i/)| Next Greater Element I|
 |[155](https://leetcode.com/problems/min-stack/)| Min Stack|
 |[226](https://leetcode.com/problems/invert-binary-tree/)| Invert Binary Tree|
+|[441](https://leetcode.com/problems/arranging-coins/)| Arranging Coins|
 
 ## Medium
 |LC #|Description|
