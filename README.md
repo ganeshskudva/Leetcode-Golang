@@ -209,6 +209,7 @@ Please give this repo a ⭐ if it inspires you.
 |[130](https://leetcode.com/problems/surrounded-regions/)| Surrounded Regions|
 |[129](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| Sum Root to Leaf Numbers|
 |[260](https://leetcode.com/problems/single-number-iii/)| Single Number III|
+|[43](https://leetcode.com/problems/multiply-strings/)|  Multiply Strings|
 
 ## Hard
 |LC #|Description|
