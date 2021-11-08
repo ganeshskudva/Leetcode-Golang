@@ -210,6 +210,7 @@ Please give this repo a ⭐ if it inspires you.
 |[129](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| Sum Root to Leaf Numbers|
 |[260](https://leetcode.com/problems/single-number-iii/)| Single Number III|
 |[43](https://leetcode.com/problems/multiply-strings/)|  Multiply Strings|
+|[96](https://leetcode.com/problems/unique-binary-search-trees/)|  Unique Binary Search Trees|
 
 ## Hard
 |LC #|Description|
