@@ -67,6 +67,7 @@ Please give this repo a ⭐ if it inspires you.
 |[226](https://leetcode.com/problems/invert-binary-tree/)| Invert Binary Tree|
 |[441](https://leetcode.com/problems/arranging-coins/)| Arranging Coins|
 |[1413](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)| Minimum Value to Get Positive Step by Step Sum|
+|[203](https://leetcode.com/problems/remove-linked-list-elements/)| Remove Linked List Elements|
 
 ## Medium
 |LC #|Description|
