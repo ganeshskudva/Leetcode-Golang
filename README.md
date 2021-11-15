@@ -215,6 +215,7 @@ Please give this repo a ⭐ if it inspires you.
 |[96](https://leetcode.com/problems/unique-binary-search-trees/)|  Unique Binary Search Trees|
 |[122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|  Best Time to Buy and Sell Stock II|
 |[739](https://leetcode.com/problems/daily-temperatures/)|  Daily Temperatures|
+|[368](https://leetcode.com/problems/largest-divisible-subset/)|  Largest Divisible Subset|
 
 ## Hard
 |LC #|Description|
