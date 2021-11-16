@@ -252,3 +252,4 @@ Please give this repo a ⭐ if it inspires you.
 |[174](https://leetcode.com/problems/dungeon-game/)| Dungeon Game|
 |[123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| Best Time to Buy and Sell Stock III|
 |[154](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| Find Minimum in Rotated Sorted Array II|
+|[668](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)| Kth Smallest Number in Multiplication Table|
