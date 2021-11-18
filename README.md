@@ -68,6 +68,7 @@ Please give this repo a ⭐ if it inspires you.
 |[441](https://leetcode.com/problems/arranging-coins/)| Arranging Coins|
 |[1413](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/)| Minimum Value to Get Positive Step by Step Sum|
 |[203](https://leetcode.com/problems/remove-linked-list-elements/)| Remove Linked List Elements|
+|[448](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)| Find All Numbers Disappeared in an Array|
 
 ## Medium
 |LC #|Description|
