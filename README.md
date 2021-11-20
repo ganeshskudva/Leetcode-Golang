@@ -218,6 +218,7 @@ Please give this repo a ⭐ if it inspires you.
 |[122](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|  Best Time to Buy and Sell Stock II|
 |[739](https://leetcode.com/problems/daily-temperatures/)|  Daily Temperatures|
 |[368](https://leetcode.com/problems/largest-divisible-subset/)|  Largest Divisible Subset|
+|[540](https://leetcode.com/problems/single-element-in-a-sorted-array/)|  Single Element in a Sorted Array|
 
 ## Hard
 |LC #|Description|
