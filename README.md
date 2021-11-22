@@ -219,6 +219,8 @@ Please give this repo a ⭐ if it inspires you.
 |[739](https://leetcode.com/problems/daily-temperatures/)|  Daily Temperatures|
 |[368](https://leetcode.com/problems/largest-divisible-subset/)|  Largest Divisible Subset|
 |[540](https://leetcode.com/problems/single-element-in-a-sorted-array/)|  Single Element in a Sorted Array|
+|[106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|  Construct Binary Tree from Inorder and Postorder Traversal|
+|[450](https://leetcode.com/problems/delete-node-in-a-bst/)|  Delete Node in a BST|
 
 ## Hard
 |LC #|Description|
