@@ -221,6 +221,7 @@ Please give this repo a ⭐ if it inspires you.
 |[540](https://leetcode.com/problems/single-element-in-a-sorted-array/)|  Single Element in a Sorted Array|
 |[106](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|  Construct Binary Tree from Inorder and Postorder Traversal|
 |[450](https://leetcode.com/problems/delete-node-in-a-bst/)|  Delete Node in a BST|
+|[986](https://leetcode.com/problems/interval-list-intersections/)|  Interval List Intersections|
 
 ## Hard
 |LC #|Description|
@@ -258,3 +259,4 @@ Please give this repo a ⭐ if it inspires you.
 |[123](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/)| Best Time to Buy and Sell Stock III|
 |[154](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| Find Minimum in Rotated Sorted Array II|
 |[668](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)| Kth Smallest Number in Multiplication Table|
+|[952](https://leetcode.com/problems/largest-component-size-by-common-factor/)| Largest Component Size by Common Factor|
