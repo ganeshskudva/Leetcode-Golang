@@ -265,3 +265,4 @@ Please give this repo a ⭐ if it inspires you.
 |[154](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)| Find Minimum in Rotated Sorted Array II|
 |[668](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/)| Kth Smallest Number in Multiplication Table|
 |[952](https://leetcode.com/problems/largest-component-size-by-common-factor/)| Largest Component Size by Common Factor|
+|[85](https://leetcode.com/problems/maximal-rectangle/)| Maximal Rectangle|
