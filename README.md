@@ -229,6 +229,7 @@ Please give this repo a ⭐ if it inspires you.
 |[721](https://leetcode.com/problems/accounts-merge/)|  Accounts Merge|
 |[198](https://leetcode.com/problems/house-robber/)|  House Robber|
 |[328](https://leetcode.com/problems/odd-even-linked-list/)|  Odd Even Linked List|
+|[152](https://leetcode.com/problems/maximum-product-subarray/)|  Maximum Product Subarray|
 
 ## Hard
 |LC #|Description|
