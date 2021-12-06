@@ -72,6 +72,7 @@ Please give this repo a ⭐ if it inspires you.
 |[461](https://leetcode.com/problems/hamming-distance/)| Hamming Distance|
 |[53](https://leetcode.com/problems/maximum-subarray/)| Maximum Subarray|
 |[35](https://leetcode.com/problems/search-insert-position/)| Search Insert Position|
+|[1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)| Minimum Cost to Move Chips to The Same Position|
 
 ## Medium
 |LC #|Description|
