@@ -232,6 +232,7 @@ Please give this repo a ⭐ if it inspires you.
 |[198](https://leetcode.com/problems/house-robber/)|  House Robber|
 |[328](https://leetcode.com/problems/odd-even-linked-list/)|  Odd Even Linked List|
 |[152](https://leetcode.com/problems/maximum-product-subarray/)|  Maximum Product Subarray|
+|[1306](https://leetcode.com/problems/jump-game-iii/)|  Jump Game III|
 
 ## Hard
 |LC #|Description|
