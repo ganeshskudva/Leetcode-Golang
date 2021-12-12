@@ -234,6 +234,7 @@ Please give this repo a ⭐ if it inspires you.
 |[152](https://leetcode.com/problems/maximum-product-subarray/)|  Maximum Product Subarray|
 |[1306](https://leetcode.com/problems/jump-game-iii/)|  Jump Game III|
 |[790](https://leetcode.com/problems/domino-and-tromino-tiling/)|  Domino and Tromino Tiling|
+|[416](https://leetcode.com/problems/partition-equal-subset-sum/)|  Partition Equal Subset Sum|
 
 ## Hard
 |LC #|Description|
