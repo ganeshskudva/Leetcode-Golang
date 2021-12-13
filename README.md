@@ -276,3 +276,4 @@ Please give this repo a ⭐ if it inspires you.
 |[952](https://leetcode.com/problems/largest-component-size-by-common-factor/)| Largest Component Size by Common Factor|
 |[85](https://leetcode.com/problems/maximal-rectangle/)| Maximal Rectangle|
 |[1032](https://leetcode.com/problems/stream-of-characters/)| Stream of Characters|
+|[878](https://leetcode.com/problems/nth-magical-number/)| Nth Magical Number|
