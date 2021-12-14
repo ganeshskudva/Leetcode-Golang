@@ -75,6 +75,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1217](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)| Minimum Cost to Move Chips to The Same Position|
 |[563](https://leetcode.com/problems/binary-tree-tilt/)| Binary Tree Tilt|
 |[1446](https://leetcode.com/problems/consecutive-characters/)| Consecutive Characters|
+|[938](https://leetcode.com/problems/range-sum-of-bst/)| Range Sum of BST|
 
 ## Medium
 |LC #|Description|
