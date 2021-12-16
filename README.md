@@ -237,6 +237,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1306](https://leetcode.com/problems/jump-game-iii/)|  Jump Game III|
 |[790](https://leetcode.com/problems/domino-and-tromino-tiling/)|  Domino and Tromino Tiling|
 |[416](https://leetcode.com/problems/partition-equal-subset-sum/)|  Partition Equal Subset Sum|
+|[310](https://leetcode.com/problems/minimum-height-trees/)|  Minimum Height Trees|
 
 ## Hard
 |LC #|Description|
