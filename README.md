@@ -238,6 +238,7 @@ Please give this repo a ⭐ if it inspires you.
 |[790](https://leetcode.com/problems/domino-and-tromino-tiling/)|  Domino and Tromino Tiling|
 |[416](https://leetcode.com/problems/partition-equal-subset-sum/)|  Partition Equal Subset Sum|
 |[310](https://leetcode.com/problems/minimum-height-trees/)|  Minimum Height Trees|
+|[221](https://leetcode.com/problems/maximal-square/)|  Maximal Square|
 
 ## Hard
 |LC #|Description|
