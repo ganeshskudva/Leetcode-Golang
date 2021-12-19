@@ -239,6 +239,7 @@ Please give this repo a ⭐ if it inspires you.
 |[416](https://leetcode.com/problems/partition-equal-subset-sum/)|  Partition Equal Subset Sum|
 |[310](https://leetcode.com/problems/minimum-height-trees/)|  Minimum Height Trees|
 |[221](https://leetcode.com/problems/maximal-square/)|  Maximal Square|
+|[394](https://leetcode.com/problems/decode-string/)|  Decode String|
 
 ## Hard
 |LC #|Description|
