@@ -77,6 +77,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1446](https://leetcode.com/problems/consecutive-characters/)| Consecutive Characters|
 |[938](https://leetcode.com/problems/range-sum-of-bst/)| Range Sum of BST|
 |[1200](https://leetcode.com/problems/minimum-absolute-difference/)| Minimum Absolute Difference|
+|[231](https://leetcode.com/problems/power-of-two/)| Power of Two|
 
 ## Medium
 |LC #|Description|
