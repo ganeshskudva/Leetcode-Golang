@@ -242,6 +242,7 @@ Please give this repo a ⭐ if it inspires you.
 |[310](https://leetcode.com/problems/minimum-height-trees/)|  Minimum Height Trees|
 |[221](https://leetcode.com/problems/maximal-square/)|  Maximal Square|
 |[394](https://leetcode.com/problems/decode-string/)|  Decode String|
+|[143](https://leetcode.com/problems/reorder-list/)|  Reorder List|
 
 ## Hard
 |LC #|Description|
