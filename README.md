@@ -243,6 +243,7 @@ Please give this repo a ⭐ if it inspires you.
 |[221](https://leetcode.com/problems/maximal-square/)|  Maximal Square|
 |[394](https://leetcode.com/problems/decode-string/)|  Decode String|
 |[143](https://leetcode.com/problems/reorder-list/)|  Reorder List|
+|[210](https://leetcode.com/problems/course-schedule-ii/)|  Course Schedule II|
 
 ## Hard
 |LC #|Description|
