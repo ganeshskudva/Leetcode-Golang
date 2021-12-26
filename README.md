@@ -245,6 +245,7 @@ Please give this repo a ⭐ if it inspires you.
 |[143](https://leetcode.com/problems/reorder-list/)|  Reorder List|
 |[210](https://leetcode.com/problems/course-schedule-ii/)|  Course Schedule II|
 |[56](https://leetcode.com/problems/merge-intervals/)|  Merge Intervals|
+|[227](https://leetcode.com/problems/basic-calculator-ii/)|  Basic Calculator II|
 
 ## Hard
 |LC #|Description|
