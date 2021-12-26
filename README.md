@@ -246,6 +246,7 @@ Please give this repo a ⭐ if it inspires you.
 |[210](https://leetcode.com/problems/course-schedule-ii/)|  Course Schedule II|
 |[56](https://leetcode.com/problems/merge-intervals/)|  Merge Intervals|
 |[227](https://leetcode.com/problems/basic-calculator-ii/)|  Basic Calculator II|
+|[973](https://leetcode.com/problems/k-closest-points-to-origin/)|  K Closest Points to Origin|
 
 ## Hard
 |LC #|Description|
