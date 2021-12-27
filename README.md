@@ -78,6 +78,7 @@ Please give this repo a ⭐ if it inspires you.
 |[938](https://leetcode.com/problems/range-sum-of-bst/)| Range Sum of BST|
 |[1200](https://leetcode.com/problems/minimum-absolute-difference/)| Minimum Absolute Difference|
 |[231](https://leetcode.com/problems/power-of-two/)| Power of Two|
+|[476](https://leetcode.com/problems/number-complement/)| Number Complement|
 
 ## Medium
 |LC #|Description|
