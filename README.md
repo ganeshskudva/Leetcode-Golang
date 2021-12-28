@@ -79,6 +79,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1200](https://leetcode.com/problems/minimum-absolute-difference/)| Minimum Absolute Difference|
 |[231](https://leetcode.com/problems/power-of-two/)| Power of Two|
 |[476](https://leetcode.com/problems/number-complement/)| Number Complement|
+|[876](https://leetcode.com/problems/middle-of-the-linked-list/)| Middle of the Linked List|
 
 ## Medium
 |LC #|Description|
