@@ -249,6 +249,7 @@ Please give this repo a ⭐ if it inspires you.
 |[56](https://leetcode.com/problems/merge-intervals/)|  Merge Intervals|
 |[227](https://leetcode.com/problems/basic-calculator-ii/)|  Basic Calculator II|
 |[973](https://leetcode.com/problems/k-closest-points-to-origin/)|  K Closest Points to Origin|
+|[116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|  Populating Next Right Pointers in Each Node|
 
 ## Hard
 |LC #|Description|
