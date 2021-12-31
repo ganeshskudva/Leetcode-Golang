@@ -251,6 +251,7 @@ Please give this repo a ⭐ if it inspires you.
 |[973](https://leetcode.com/problems/k-closest-points-to-origin/)|  K Closest Points to Origin|
 |[116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|  Populating Next Right Pointers in Each Node|
 |[1015](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|  Smallest Integer Divisible by K|
+|[1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|  Maximum Difference Between Node and Ancestor|
 
 ## Hard
 |LC #|Description|
