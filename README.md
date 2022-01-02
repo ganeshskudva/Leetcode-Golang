@@ -252,6 +252,7 @@ Please give this repo a ⭐ if it inspires you.
 |[116](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)|  Populating Next Right Pointers in Each Node|
 |[1015](https://leetcode.com/problems/smallest-integer-divisible-by-k/)|  Smallest Integer Divisible by K|
 |[1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|  Maximum Difference Between Node and Ancestor|
+|[1010](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|  Pairs of Songs With Total Durations Divisible by 60|
 
 ## Hard
 |LC #|Description|
