@@ -80,6 +80,7 @@ Please give this repo a ⭐ if it inspires you.
 |[231](https://leetcode.com/problems/power-of-two/)| Power of Two|
 |[476](https://leetcode.com/problems/number-complement/)| Number Complement|
 |[876](https://leetcode.com/problems/middle-of-the-linked-list/)| Middle of the Linked List|
+|[997](https://leetcode.com/problems/find-the-town-judge/)| Find the Town Judge|
 
 ## Medium
 |LC #|Description|
