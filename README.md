@@ -82,7 +82,6 @@ Please give this repo a ⭐ if it inspires you.
 |[876](https://leetcode.com/problems/middle-of-the-linked-list/)| Middle of the Linked List|
 |[997](https://leetcode.com/problems/find-the-town-judge/)| Find the Town Judge|
 |[1009](https://leetcode.com/problems/complement-of-base-10-integer/)| Complement of Base 10 Integer|
-|[382](https://leetcode.com/problems/linked-list-random-node/)| Linked List Random Node|
 
 ## Medium
 |LC #|Description|
@@ -257,6 +256,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1026](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|  Maximum Difference Between Node and Ancestor|
 |[1010](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/)|  Pairs of Songs With Total Durations Divisible by 60|
 |[131](https://leetcode.com/problems/palindrome-partitioning/)|  Palindrome Partitioning|
+|[382](https://leetcode.com/problems/linked-list-random-node/)| Linked List Random Node|
 
 ## Hard
 |LC #|Description|
