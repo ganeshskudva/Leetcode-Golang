@@ -299,3 +299,4 @@ Please give this repo a ⭐ if it inspires you.
 |[1032](https://leetcode.com/problems/stream-of-characters/)| Stream of Characters|
 |[878](https://leetcode.com/problems/nth-magical-number/)| Nth Magical Number|
 |[902](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/)| Numbers At Most N Given Digit Set|
+|[1463](https://leetcode.com/problems/cherry-pickup-ii/)| Cherry Pickup II|
