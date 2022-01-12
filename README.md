@@ -259,6 +259,7 @@ Please give this repo a ⭐ if it inspires you.
 |[131](https://leetcode.com/problems/palindrome-partitioning/)|  Palindrome Partitioning|
 |[382](https://leetcode.com/problems/linked-list-random-node/)| Linked List Random Node|
 |[1041](https://leetcode.com/problems/robot-bounded-in-circle/)| Robot Bounded In Circle|
+|[701](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| Insert into a Binary Search Tree|
 
 ## Hard
 |LC #|Description|
