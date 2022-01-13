@@ -260,6 +260,7 @@ Please give this repo a ⭐ if it inspires you.
 |[382](https://leetcode.com/problems/linked-list-random-node/)| Linked List Random Node|
 |[1041](https://leetcode.com/problems/robot-bounded-in-circle/)| Robot Bounded In Circle|
 |[701](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| Insert into a Binary Search Tree|
+|[452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)| Minimum Number of Arrows to Burst Balloons|
 
 ## Hard
 |LC #|Description|
