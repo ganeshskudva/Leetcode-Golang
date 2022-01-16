@@ -262,6 +262,7 @@ Please give this repo a ⭐ if it inspires you.
 |[701](https://leetcode.com/problems/insert-into-a-binary-search-tree/)| Insert into a Binary Search Tree|
 |[452](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/)| Minimum Number of Arrows to Burst Balloons|
 |[8](https://leetcode.com/problems/string-to-integer-atoi/)| String to Integer (atoi)|
+|[849](https://leetcode.com/problems/maximize-distance-to-closest-person/)| Maximize Distance to Closest Person|
 
 ## Hard
 |LC #|Description|
