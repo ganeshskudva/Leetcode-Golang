@@ -83,6 +83,8 @@ Please give this repo a ⭐ if it inspires you.
 |[997](https://leetcode.com/problems/find-the-town-judge/)| Find the Town Judge|
 |[1009](https://leetcode.com/problems/complement-of-base-10-integer/)| Complement of Base 10 Integer|
 |[67](https://leetcode.com/problems/add-binary/)| Add Binary|
+|[290](https://leetcode.com/problems/word-pattern/)| Word Pattern|
+|[605](https://leetcode.com/problems/can-place-flowers/)| Can Place Flowers|
 
 ## Medium
 |LC #|Description|
