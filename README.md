@@ -268,6 +268,7 @@ Please give this repo a ⭐ if it inspires you.
 |[142](https://leetcode.com/problems/linked-list-cycle-ii/)| Linked List Cycle II|
 |[875](https://leetcode.com/problems/koko-eating-bananas/)| Koko Eating Bananas|
 |[134](https://leetcode.com/problems/gas-station/)| Gas Station|
+|[1291](https://leetcode.com/problems/sequential-digits/)| Sequential Digits|
 
 ## Hard
 |LC #|Description|
