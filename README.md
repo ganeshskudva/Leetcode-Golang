@@ -85,6 +85,7 @@ Please give this repo a ⭐ if it inspires you.
 |[67](https://leetcode.com/problems/add-binary/)| Add Binary|
 |[290](https://leetcode.com/problems/word-pattern/)| Word Pattern|
 |[605](https://leetcode.com/problems/can-place-flowers/)| Can Place Flowers|
+|[520](https://leetcode.com/problems/detect-capital/)| Detect Capital|
 
 ## Medium
 |LC #|Description|
