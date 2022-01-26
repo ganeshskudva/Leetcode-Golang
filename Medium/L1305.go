@@ -9,41 +9,38 @@ package Medium
  * }
  */
 func getAllElements(root1 *TreeNode, root2 *TreeNode) []int {
-	var res []int
-	if root1 == nil && root2 == nil {
-		return res
-	}
+	var q1, q2, ans []int
 
-	var st1, st2 []*TreeNode
-	pushLeft(&st1, root1)
-	pushLeft(&st2, root2)
+	inorder(root1, &q1)
+	inorder(root2, &q2)
 
-	for len(st1) != 0 || len(st2) != 0 {
-		var st *[]*TreeNode
-		if len(st1) == 0 {
-			st = &st2
-		} else if len(st2) == 0 {
-			st = &st1
+	for len(q1) > 0 || len(q2) > 0 {
+		if len(q2) == 0 {
+			ans = append(ans, q1[0])
+			q1 = q1[1:]
+		} else if len(q1) == 0 {
+			ans = append(ans, q2[0])
+			q2 = q2[1:]
 		} else {
-			if st1[len(st1)-1].Val < st2[len(st2)-1].Val {
-				st = &st1
+			if q1[0] < q2[0] {
+				ans = append(ans, q1[0])
+				q1 = q1[1:]
 			} else {
-				st = &st2
+				ans = append(ans, q2[0])
+				q2 = q2[1:]
 			}
 		}
-
-		curr := (*st)[len(*st)-1]
-		*st = (*st)[:len(*st)-1]
-		res = append(res, curr.Val)
-		pushLeft(st, curr.Right)
 	}
 
-	return res
+	return ans
 }
 
-func pushLeft(st *[]*TreeNode, node *TreeNode) {
-	for node != nil {
-		*st = append(*st, node)
-		node = node.Left
+func inorder(root *TreeNode, q *[]int) {
+	if root == nil {
+		return
 	}
+
+	inorder(root.Left, q)
+	*q = append(*q, root.Val)
+	inorder(root.Right, q)
 }
