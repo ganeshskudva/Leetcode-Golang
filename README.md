@@ -271,6 +271,7 @@ Please give this repo a ⭐ if it inspires you.
 |[875](https://leetcode.com/problems/koko-eating-bananas/)| Koko Eating Bananas|
 |[134](https://leetcode.com/problems/gas-station/)| Gas Station|
 |[1291](https://leetcode.com/problems/sequential-digits/)| Sequential Digits|
+|[421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)| Maximum XOR of Two Numbers in an Array|
 
 ## Hard
 |LC #|Description|
