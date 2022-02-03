@@ -274,6 +274,7 @@ Please give this repo a ⭐ if it inspires you.
 |[421](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/)| Maximum XOR of Two Numbers in an Array|
 |[211](https://leetcode.com/problems/design-add-and-search-words-data-structure/)| Design Add and Search Words Data Structure|
 |[438](https://leetcode.com/problems/find-all-anagrams-in-a-string/)| Find All Anagrams in a String|
+|[454](https://leetcode.com/problems/4sum-ii/)| 4Sum II|
 
 ## Hard
 |LC #|Description|
