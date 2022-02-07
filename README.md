@@ -87,6 +87,7 @@ Please give this repo a ⭐ if it inspires you.
 |[605](https://leetcode.com/problems/can-place-flowers/)| Can Place Flowers|
 |[520](https://leetcode.com/problems/detect-capital/)| Detect Capital|
 |[941](https://leetcode.com/problems/valid-mountain-array/)| Valid Mountain Array|
+|[389](https://leetcode.com/problems/find-the-difference/)| Find the Difference|
 
 ## Medium
 |LC #|Description|
