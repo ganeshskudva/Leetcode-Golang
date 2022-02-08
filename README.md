@@ -88,6 +88,7 @@ Please give this repo a ⭐ if it inspires you.
 |[520](https://leetcode.com/problems/detect-capital/)| Detect Capital|
 |[941](https://leetcode.com/problems/valid-mountain-array/)| Valid Mountain Array|
 |[389](https://leetcode.com/problems/find-the-difference/)| Find the Difference|
+|[258](https://leetcode.com/problems/add-digits/)| Add Digits|
 
 ## Medium
 |LC #|Description|
