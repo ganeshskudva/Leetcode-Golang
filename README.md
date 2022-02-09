@@ -279,6 +279,7 @@ Please give this repo a ⭐ if it inspires you.
 |[454](https://leetcode.com/problems/4sum-ii/)| 4Sum II|
 |[525](https://leetcode.com/problems/contiguous-array/)| Contiguous Array|
 |[80](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)| Remove Duplicates from Sorted Array II|
+|[532](https://leetcode.com/problems/k-diff-pairs-in-an-array/)| K-diff Pairs in an Array|
 
 ## Hard
 |LC #|Description|
