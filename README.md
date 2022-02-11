@@ -89,6 +89,7 @@ Please give this repo a ⭐ if it inspires you.
 |[941](https://leetcode.com/problems/valid-mountain-array/)| Valid Mountain Array|
 |[389](https://leetcode.com/problems/find-the-difference/)| Find the Difference|
 |[258](https://leetcode.com/problems/add-digits/)| Add Digits|
+|[1108](https://leetcode.com/problems/defanging-an-ip-address/)| Defanging an IP Address|
 
 ## Medium
 |LC #|Description|
