@@ -90,6 +90,7 @@ Please give this repo a ⭐ if it inspires you.
 |[389](https://leetcode.com/problems/find-the-difference/)| Find the Difference|
 |[258](https://leetcode.com/problems/add-digits/)| Add Digits|
 |[1108](https://leetcode.com/problems/defanging-an-ip-address/)| Defanging an IP Address|
+|[1832](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)| Check if the Sentence Is Pangram|
 
 ## Medium
 |LC #|Description|
