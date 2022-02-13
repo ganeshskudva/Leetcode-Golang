@@ -283,6 +283,7 @@ Please give this repo a ⭐ if it inspires you.
 |[532](https://leetcode.com/problems/k-diff-pairs-in-an-array/)| K-diff Pairs in an Array|
 |[560](https://leetcode.com/problems/subarray-sum-equals-k/)| Subarray Sum Equals K|
 |[567](https://leetcode.com/problems/permutation-in-string/)| Permutation in String|
+|[78](https://leetcode.com/problems/subsets/)| Subsets|
 
 ## Hard
 |LC #|Description|
