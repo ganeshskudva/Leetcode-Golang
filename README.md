@@ -91,6 +91,7 @@ Please give this repo a ⭐ if it inspires you.
 |[258](https://leetcode.com/problems/add-digits/)| Add Digits|
 |[1108](https://leetcode.com/problems/defanging-an-ip-address/)| Defanging an IP Address|
 |[1832](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)| Check if the Sentence Is Pangram|
+|[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| Maximum Depth of Binary Tree|
 
 ## Medium
 |LC #|Description|
