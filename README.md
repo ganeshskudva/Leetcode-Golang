@@ -287,6 +287,7 @@ Please give this repo a ⭐ if it inspires you.
 |[560](https://leetcode.com/problems/subarray-sum-equals-k/)| Subarray Sum Equals K|
 |[567](https://leetcode.com/problems/permutation-in-string/)| Permutation in String|
 |[78](https://leetcode.com/problems/subsets/)| Subsets|
+|[39](https://leetcode.com/problems/combination-sum/)| Combination Sum|
 
 ## Hard
 |LC #|Description|
