@@ -288,6 +288,7 @@ Please give this repo a ⭐ if it inspires you.
 |[567](https://leetcode.com/problems/permutation-in-string/)| Permutation in String|
 |[78](https://leetcode.com/problems/subsets/)| Subsets|
 |[39](https://leetcode.com/problems/combination-sum/)| Combination Sum|
+|[402](https://leetcode.com/problems/remove-k-digits/)| Remove K Digits|
 
 ## Hard
 |LC #|Description|
