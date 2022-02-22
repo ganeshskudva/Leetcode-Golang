@@ -93,6 +93,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1832](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)| Check if the Sentence Is Pangram|
 |[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| Maximum Depth of Binary Tree|
 |[136](https://leetcode.com/problems/single-number/)| Single Number|
+|[171](https://leetcode.com/problems/excel-sheet-column-number/)| Excel Sheet Column Number|
 
 ## Medium
 |LC #|Description|
