@@ -291,6 +291,7 @@ Please give this repo a ⭐ if it inspires you.
 |[39](https://leetcode.com/problems/combination-sum/)| Combination Sum|
 |[402](https://leetcode.com/problems/remove-k-digits/)| Remove K Digits|
 |[133](https://leetcode.com/problems/clone-graph/)| Clone Graph|
+|[148](https://leetcode.com/problems/sort-list/)| Sort List|
 
 ## Hard
 |LC #|Description|
