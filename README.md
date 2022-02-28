@@ -94,6 +94,7 @@ Please give this repo a ⭐ if it inspires you.
 |[104](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| Maximum Depth of Binary Tree|
 |[136](https://leetcode.com/problems/single-number/)| Single Number|
 |[171](https://leetcode.com/problems/excel-sheet-column-number/)| Excel Sheet Column Number|
+|[228](https://leetcode.com/problems/summary-ranges/)| Summary Ranges|
 
 ## Medium
 |LC #|Description|
