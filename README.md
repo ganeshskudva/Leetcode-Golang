@@ -96,6 +96,7 @@ Please give this repo a ⭐ if it inspires you.
 |[171](https://leetcode.com/problems/excel-sheet-column-number/)| Excel Sheet Column Number|
 |[228](https://leetcode.com/problems/summary-ranges/)| Summary Ranges|
 |[338](https://leetcode.com/problems/counting-bits/)| Counting Bits|
+|[392](https://leetcode.com/problems/is-subsequence/)| Is Subsequence|
 
 ## Medium
 |LC #|Description|
