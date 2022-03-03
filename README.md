@@ -296,6 +296,7 @@ Please give this repo a ⭐ if it inspires you.
 |[133](https://leetcode.com/problems/clone-graph/)| Clone Graph|
 |[148](https://leetcode.com/problems/sort-list/)| Sort List|
 |[662](https://leetcode.com/problems/maximum-width-of-binary-tree/)| Maximum Width of Binary Tree|
+|[413](https://leetcode.com/problems/arithmetic-slices/)| Arithmetic Slices|
 
 ## Hard
 |LC #|Description|
