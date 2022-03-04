@@ -297,6 +297,7 @@ Please give this repo a ⭐ if it inspires you.
 |[148](https://leetcode.com/problems/sort-list/)| Sort List|
 |[662](https://leetcode.com/problems/maximum-width-of-binary-tree/)| Maximum Width of Binary Tree|
 |[413](https://leetcode.com/problems/arithmetic-slices/)| Arithmetic Slices|
+|[799](https://leetcode.com/problems/champagne-tower/)| Champagne Tower|
 
 ## Hard
 |LC #|Description|
