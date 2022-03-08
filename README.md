@@ -97,6 +97,8 @@ Please give this repo a ⭐ if it inspires you.
 |[228](https://leetcode.com/problems/summary-ranges/)| Summary Ranges|
 |[338](https://leetcode.com/problems/counting-bits/)| Counting Bits|
 |[392](https://leetcode.com/problems/is-subsequence/)| Is Subsequence|
+|[21](https://leetcode.com/problems/merge-two-sorted-lists/)| Merge Two Sorted Lists|
+|[141](https://leetcode.com/problems/linked-list-cycle/)| Linked List Cycle|
 
 ## Medium
 |LC #|Description|
