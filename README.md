@@ -300,6 +300,7 @@ Please give this repo a ⭐ if it inspires you.
 |[662](https://leetcode.com/problems/maximum-width-of-binary-tree/)| Maximum Width of Binary Tree|
 |[413](https://leetcode.com/problems/arithmetic-slices/)| Arithmetic Slices|
 |[799](https://leetcode.com/problems/champagne-tower/)| Champagne Tower|
+|[82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| Remove Duplicates from Sorted List II|
 
 ## Hard
 |LC #|Description|
