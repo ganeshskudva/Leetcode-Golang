@@ -302,6 +302,7 @@ Please give this repo a ⭐ if it inspires you.
 |[799](https://leetcode.com/problems/champagne-tower/)| Champagne Tower|
 |[82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| Remove Duplicates from Sorted List II|
 |[61](https://leetcode.com/problems/rotate-list/)| Rotate List|
+|[138](https://leetcode.com/problems/copy-list-with-random-pointer/)| Copy List with Random Pointer|
 
 ## Hard
 |LC #|Description|
