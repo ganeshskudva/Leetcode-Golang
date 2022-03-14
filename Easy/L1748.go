@@ -1,22 +1,14 @@
 package Easy
 
 func sumOfUnique(nums []int) int {
-    	if len(nums) == 0 {
-		return 0
-	}
+	mp, sum := make(map[int]int), 0
 
-	mp := make(map[int]bool)
-
-	sum := 0
-	for _, v := range nums {
-		if _, ok := mp[v]; ok {
-			if mp[v] {
-				sum -= v
-				mp[v] = false
-			}
-		} else {
-			mp[v] = true
-			sum += v
+	for _, n := range nums {
+		mp[n]++
+		if mp[n] == 1 {
+			sum += n
+		} else if mp[n] == 2 {
+			sum -= n
 		}
 	}
 
