@@ -305,6 +305,7 @@ Please give this repo a ⭐ if it inspires you.
 |[82](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)| Remove Duplicates from Sorted List II|
 |[61](https://leetcode.com/problems/rotate-list/)| Rotate List|
 |[138](https://leetcode.com/problems/copy-list-with-random-pointer/)| Copy List with Random Pointer|
+|[71](https://leetcode.com/problems/simplify-path/)| Simplify Path|
 
 ## Hard
 |LC #|Description|
