@@ -306,6 +306,7 @@ Please give this repo a ⭐ if it inspires you.
 |[61](https://leetcode.com/problems/rotate-list/)| Rotate List|
 |[138](https://leetcode.com/problems/copy-list-with-random-pointer/)| Copy List with Random Pointer|
 |[71](https://leetcode.com/problems/simplify-path/)| Simplify Path|
+|[1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)| Minimum Remove to Make Valid Parentheses|
 
 ## Hard
 |LC #|Description|
