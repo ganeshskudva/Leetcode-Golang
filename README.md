@@ -308,6 +308,7 @@ Please give this repo a ⭐ if it inspires you.
 |[138](https://leetcode.com/problems/copy-list-with-random-pointer/)| Copy List with Random Pointer|
 |[71](https://leetcode.com/problems/simplify-path/)| Simplify Path|
 |[1249](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)| Minimum Remove to Make Valid Parentheses|
+|[856](https://leetcode.com/problems/score-of-parentheses/)| Score of Parentheses|
 
 ## Hard
 |LC #|Description|
