@@ -104,6 +104,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| Count Negative Numbers in a Sorted Matrix|
 |[905](https://leetcode.com/problems/sort-array-by-parity/)| Sort Array By Parity|
 |[344](https://leetcode.com/problems/reverse-string/)| Reverse String|
+|[1460](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| Make Two Arrays Equal by Reversing Sub-arrays|
 
 ## Medium
 |LC #|Description|
