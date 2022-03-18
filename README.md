@@ -102,6 +102,7 @@ Please give this repo a ⭐ if it inspires you.
 |[617](https://leetcode.com/problems/merge-two-binary-trees/)| Merge Two Binary Trees|
 |[20](https://leetcode.com/problems/valid-parentheses/)| Valid Parentheses|
 |[1351](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| Count Negative Numbers in a Sorted Matrix|
+|[905](https://leetcode.com/problems/sort-array-by-parity/)| Sort Array By Parity|
 
 ## Medium
 |LC #|Description|
