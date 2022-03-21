@@ -106,7 +106,7 @@ Please give this repo a ⭐ if it inspires you.
 |[344](https://leetcode.com/problems/reverse-string/)| Reverse String|
 |[1460](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| Make Two Arrays Equal by Reversing Sub-arrays|
 |[977](https://leetcode.com/problems/squares-of-a-sorted-array/)| Squares of a Sorted Array|
-|[1007](https://leetcode.com/problems/intersection-of-two-arrays/)| Intersection of Two Arrays|
+|[349](https://leetcode.com/problems/intersection-of-two-arrays/)| Intersection of Two Arrays|
 
 ## Medium
 |LC #|Description|
