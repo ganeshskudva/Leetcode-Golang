@@ -316,6 +316,7 @@ Please give this repo a ⭐ if it inspires you.
 |[856](https://leetcode.com/problems/score-of-parentheses/)| Score of Parentheses|
 |[316](https://leetcode.com/problems/remove-duplicate-letters/)| Remove Duplicate Letters|
 |[763](https://leetcode.com/problems/partition-labels/)| Partition Labels|
+|[1663](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/)| Smallest String With A Given Numeric Value|
 
 ## Hard
 |LC #|Description|
