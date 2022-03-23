@@ -1,27 +1,30 @@
 package Easy
 
 func averageOfLevels(root *TreeNode) []float64 {
-    if root == nil {
-        return make([]float64, 0)
-    }
-    avgs := make([]float64, 0, 10)
-    queue := make([]*TreeNode, 1, 10)
-    queue[0] = root
-    for len(queue) != 0 {
-        n := len(queue)
-        sum := 0
-        for i := 0; i < n; i++ {
-            cur := queue[0]
-            sum += cur.Val
-            queue = queue[1:]
-            if cur.Left != nil {
-                queue = append(queue, cur.Left)
-            }
-            if cur.Right != nil {
-                queue = append(queue, cur.Right)
-            }
-        }
-        avgs = append(avgs, float64(sum)/float64(n))
-    }
-    return avgs
+	var (
+		res []float64
+		q   []*TreeNode
+	)
+	if root == nil {
+		return res
+	}
+
+	q = append(q, root)
+	for len(q) != 0 {
+		n := len(q)
+		sum := 0
+		for i := 0; i < n; i++ {
+			cur := q[0]
+			sum += cur.Val
+			q = q[1:]
+			if cur.Left != nil {
+				q = append(q, cur.Left)
+			}
+			if cur.Right != nil {
+				q = append(q, cur.Right)
+			}
+		}
+		res = append(res, float64(sum)/float64(n))
+	}
+	return res
 }
