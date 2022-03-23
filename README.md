@@ -107,6 +107,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1460](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)| Make Two Arrays Equal by Reversing Sub-arrays|
 |[977](https://leetcode.com/problems/squares-of-a-sorted-array/)| Squares of a Sorted Array|
 |[349](https://leetcode.com/problems/intersection-of-two-arrays/)| Intersection of Two Arrays|
+|[1002](https://leetcode.com/problems/find-common-characters/)| Find Common Characters|
 
 ## Medium
 |LC #|Description|
