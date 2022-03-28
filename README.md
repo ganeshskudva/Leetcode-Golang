@@ -110,6 +110,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1002](https://leetcode.com/problems/find-common-characters/)| Find Common Characters|
 |[766](https://leetcode.com/problems/toeplitz-matrix/)| Toeplitz Matrix|
 |[704](https://leetcode.com/problems/binary-search/)| Binary Search|
+|[1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)| Find Words That Can Be Formed by Characters|
 
 ## Medium
 |LC #|Description|
