@@ -323,6 +323,7 @@ Please give this repo a ⭐ if it inspires you.
 |[991](https://leetcode.com/problems/broken-calculator/)| Broken Calculator|
 |[881](https://leetcode.com/problems/boats-to-save-people/)| Boats to Save People|
 |[1024](https://leetcode.com/problems/two-city-scheduling/)| Two City Scheduling|
+|[81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| Search in Rotated Sorted Array II|
 
 ## Hard
 |LC #|Description|
