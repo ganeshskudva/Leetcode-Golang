@@ -111,6 +111,7 @@ Please give this repo a ⭐ if it inspires you.
 |[766](https://leetcode.com/problems/toeplitz-matrix/)| Toeplitz Matrix|
 |[704](https://leetcode.com/problems/binary-search/)| Binary Search|
 |[1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)| Find Words That Can Be Formed by Characters|
+|[412](https://leetcode.com/problems/fizz-buzz/)| Fizz Buzz|
 
 ## Medium
 |LC #|Description|
