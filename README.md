@@ -326,6 +326,7 @@ Please give this repo a ⭐ if it inspires you.
 |[881](https://leetcode.com/problems/boats-to-save-people/)| Boats to Save People|
 |[1024](https://leetcode.com/problems/two-city-scheduling/)| Two City Scheduling|
 |[81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| Search in Rotated Sorted Array II|
+|[287](https://leetcode.com/problems/find-the-duplicate-number/)| Find the Duplicate Number|
 
 ## Hard
 |LC #|Description|
