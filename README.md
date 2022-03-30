@@ -113,6 +113,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1160](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)| Find Words That Can Be Formed by Characters|
 |[412](https://leetcode.com/problems/fizz-buzz/)| Fizz Buzz|
 |[266](https://leetcode.com/problems/palindrome-permutation/)| Palindrome Permutation|
+|[145](https://leetcode.com/problems/binary-tree-postorder-traversal/)| Binary Tree Postorder Traversal|
 
 ## Medium
 |LC #|Description|
