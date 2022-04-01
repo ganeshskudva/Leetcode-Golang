@@ -116,6 +116,7 @@ Please give this repo a ⭐ if it inspires you.
 |[145](https://leetcode.com/problems/binary-tree-postorder-traversal/)| Binary Tree Postorder Traversal|
 |[169](https://leetcode.com/problems/majority-element/)| Majority Element|
 |[242](https://leetcode.com/problems/valid-anagram/)| Valid Anagram|
+|[217](https://leetcode.com/problems/contains-duplicate/)| Contains Duplicate|
 
 ## Medium
 |LC #|Description|
