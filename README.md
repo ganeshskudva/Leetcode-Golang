@@ -117,6 +117,7 @@ Please give this repo a ⭐ if it inspires you.
 |[169](https://leetcode.com/problems/majority-element/)| Majority Element|
 |[242](https://leetcode.com/problems/valid-anagram/)| Valid Anagram|
 |[217](https://leetcode.com/problems/contains-duplicate/)| Contains Duplicate|
+|[283](https://leetcode.com/problems/move-zeroes/)| Move Zeroes|
 
 ## Medium
 |LC #|Description|
