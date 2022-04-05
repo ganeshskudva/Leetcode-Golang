@@ -334,6 +334,7 @@ Please give this repo a ⭐ if it inspires you.
 |[81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)| Search in Rotated Sorted Array II|
 |[287](https://leetcode.com/problems/find-the-duplicate-number/)| Find the Duplicate Number|
 |[74](https://leetcode.com/problems/search-a-2d-matrix/)| Search a 2D Matrix|
+|[11](https://leetcode.com/problems/container-with-most-water/)| Container With Most Water|
 
 ## Hard
 |LC #|Description|
