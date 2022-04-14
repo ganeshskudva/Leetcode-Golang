@@ -119,6 +119,7 @@ Please give this repo a ⭐ if it inspires you.
 |[217](https://leetcode.com/problems/contains-duplicate/)| Contains Duplicate|
 |[283](https://leetcode.com/problems/move-zeroes/)| Move Zeroes|
 |[1260](https://leetcode.com/problems/shift-2d-grid/)| Shift 2D Grid|
+|[700](https://leetcode.com/problems/search-in-a-binary-search-tree/)| Search in a Binary Search Tree|
 
 ## Medium
 |LC #|Description|
