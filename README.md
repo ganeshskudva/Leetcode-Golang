@@ -338,6 +338,7 @@ Please give this repo a ⭐ if it inspires you.
 |[74](https://leetcode.com/problems/search-a-2d-matrix/)| Search a 2D Matrix|
 |[11](https://leetcode.com/problems/container-with-most-water/)| Container With Most Water|
 |[538](https://leetcode.com/problems/convert-bst-to-greater-tree/)| Convert BST to Greater Tree|
+|[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| Kth Smallest Element in a BST|
 
 ## Hard
 |LC #|Description|
