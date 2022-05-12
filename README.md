@@ -342,6 +342,7 @@ Please give this repo a ⭐ if it inspires you.
 |[230](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)| Kth Smallest Element in a BST|
 |[284](https://leetcode.com/problems/peeking-iterator/)| Peeking Iterator|
 |[216](https://leetcode.com/problems/combination-sum-iii/)| Combination Sum III|
+|[47](https://leetcode.com/problems/permutations-ii/)| Permutations II|
 
 ## Hard
 |LC #|Description|
