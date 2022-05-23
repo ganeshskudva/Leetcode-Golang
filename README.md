@@ -345,6 +345,7 @@ Please give this repo a ⭐ if it inspires you.
 |[47](https://leetcode.com/problems/permutations-ii/)| Permutations II|
 |[117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| Populating Next Right Pointers in Each Node II|
 |[743](https://leetcode.com/problems/network-delay-time/)| Network Delay Time|
+|[474](https://leetcode.com/problems/ones-and-zeroes/)| Ones and Zeroes|
 
 ## Hard
 |LC #|Description|
