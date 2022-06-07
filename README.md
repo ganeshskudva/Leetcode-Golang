@@ -121,6 +121,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1260](https://leetcode.com/problems/shift-2d-grid/)| Shift 2D Grid|
 |[700](https://leetcode.com/problems/search-in-a-binary-search-tree/)| Search in a Binary Search Tree|
 |[844](https://leetcode.com/problems/backspace-string-compare/)| Backspace String Compare|
+|[88](https://leetcode.com/problems/merge-sorted-array/)| Merge Sorted Array|
 
 ## Medium
 |LC #|Description|
