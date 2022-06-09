@@ -347,6 +347,7 @@ Please give this repo a ⭐ if it inspires you.
 |[117](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| Populating Next Right Pointers in Each Node II|
 |[743](https://leetcode.com/problems/network-delay-time/)| Network Delay Time|
 |[474](https://leetcode.com/problems/ones-and-zeroes/)| Ones and Zeroes|
+|[167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| Two Sum II - Input Array Is Sorted|
 
 ## Hard
 |LC #|Description|
