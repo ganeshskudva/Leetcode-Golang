@@ -348,6 +348,7 @@ Please give this repo a ⭐ if it inspires you.
 |[743](https://leetcode.com/problems/network-delay-time/)| Network Delay Time|
 |[474](https://leetcode.com/problems/ones-and-zeroes/)| Ones and Zeroes|
 |[167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| Two Sum II - Input Array Is Sorted|
+|[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Longest Substring Without Repeating Characters|
 
 ## Hard
 |LC #|Description|
