@@ -350,6 +350,7 @@ Please give this repo a ⭐ if it inspires you.
 |[167](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)| Two Sum II - Input Array Is Sorted|
 |[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Longest Substring Without Repeating Characters|
 |[1658](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)| Minimum Operations to Reduce X to Zero|
+|[215](https://leetcode.com/problems/kth-largest-element-in-an-array/)| Kth Largest Element in an Array|
 
 ## Hard
 |LC #|Description|
