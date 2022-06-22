@@ -122,6 +122,7 @@ Please give this repo a ⭐ if it inspires you.
 |[700](https://leetcode.com/problems/search-in-a-binary-search-tree/)| Search in a Binary Search Tree|
 |[844](https://leetcode.com/problems/backspace-string-compare/)| Backspace String Compare|
 |[88](https://leetcode.com/problems/merge-sorted-array/)| Merge Sorted Array|
+|[859](https://leetcode.com/problems/buddy-strings/)| Buddy Strings|
 
 ## Medium
 |LC #|Description|
