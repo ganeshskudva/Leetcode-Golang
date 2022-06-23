@@ -352,6 +352,7 @@ Please give this repo a ⭐ if it inspires you.
 |[3](https://leetcode.com/problems/longest-substring-without-repeating-characters/)| Longest Substring Without Repeating Characters|
 |[1658](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)| Minimum Operations to Reduce X to Zero|
 |[215](https://leetcode.com/problems/kth-largest-element-in-an-array/)| Kth Largest Element in an Array|
+|[1570](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)| Dot Product of Two Sparse Vectors|
 
 ## Hard
 |LC #|Description|
