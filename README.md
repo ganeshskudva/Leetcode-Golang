@@ -353,6 +353,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1658](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/)| Minimum Operations to Reduce X to Zero|
 |[215](https://leetcode.com/problems/kth-largest-element-in-an-array/)| Kth Largest Element in an Array|
 |[1570](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)| Dot Product of Two Sparse Vectors|
+|[199](https://leetcode.com/problems/binary-tree-right-side-view/)| Binary Tree Right Side View|
 
 ## Hard
 |LC #|Description|
