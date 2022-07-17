@@ -401,3 +401,4 @@ Please give this repo a ⭐ if it inspires you.
 |[1510](https://leetcode.com/problems/stone-game-iv/)| Stone Game IV|
 |[127](https://leetcode.com/problems/word-ladder/)| Word Ladder|
 |[410](https://leetcode.com/problems/split-array-largest-sum/)| Split Array Largest Sum|
+|[629](https://leetcode.com/problems/k-inverse-pairs-array/)| K Inverse Pairs Array|
