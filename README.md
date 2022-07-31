@@ -355,6 +355,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1570](https://leetcode.com/problems/dot-product-of-two-sparse-vectors/)| Dot Product of Two Sparse Vectors|
 |[199](https://leetcode.com/problems/binary-tree-right-side-view/)| Binary Tree Right Side View|
 |[92](https://leetcode.com/problems/reverse-linked-list-ii/)| Reverse Linked List II|
+|[307](https://leetcode.com/problems/range-sum-query-mutable/)| Range Sum Query - Mutable|
 
 ## Hard
 |LC #|Description|
