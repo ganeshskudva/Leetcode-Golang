@@ -358,6 +358,7 @@ Please give this repo a ⭐ if it inspires you.
 |[307](https://leetcode.com/problems/range-sum-query-mutable/)| Range Sum Query - Mutable|
 |[240](https://leetcode.com/problems/search-a-2d-matrix-ii/)| Search a 2D Matrix II|
 |[1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)| Pseudo-Palindromic Paths in a Binary Tree|
+|[1770](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| Maximum Score from Performing Multiplication Operations|
 
 ## Hard
 |LC #|Description|
