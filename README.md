@@ -361,6 +361,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1457](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/)| Pseudo-Palindromic Paths in a Binary Tree|
 |[1770](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| Maximum Score from Performing Multiplication Operations|
 |[985](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| Sum of Even Numbers After Queries|
+|[1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)| Concatenation of Consecutive Binary Numbers|
 
 ## Hard
 |LC #|Description|
