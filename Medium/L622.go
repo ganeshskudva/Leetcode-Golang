@@ -1,14 +1,16 @@
 package Medium
 
 type MyCircularQueue struct {
-	Q        []int
-	Capacity int
+	maxSize, head, tail int
+	data                []int
 }
 
 func Constructor(k int) MyCircularQueue {
 	return MyCircularQueue{
-		Q:        make([]int, 0, k),
-		Capacity: k,
+		maxSize: k,
+		head:    0,
+		tail:    -1,
+		data:    make([]int, k),
 	}
 }
 
@@ -17,7 +19,9 @@ func (this *MyCircularQueue) EnQueue(value int) bool {
 		return false
 	}
 
-	this.Q = append(this.Q, value)
+	this.tail = (this.tail + 1) % this.maxSize
+	this.data[this.tail] = value
+
 	return true
 }
 
@@ -26,7 +30,12 @@ func (this *MyCircularQueue) DeQueue() bool {
 		return false
 	}
 
-	this.Q = this.Q[1:]
+	if this.head == this.tail {
+		this.head, this.tail = 0, -1
+	} else {
+		this.head = (this.head + 1) % this.maxSize
+	}
+
 	return true
 }
 
@@ -35,7 +44,7 @@ func (this *MyCircularQueue) Front() int {
 		return -1
 	}
 
-	return this.Q[0]
+	return this.data[this.head]
 }
 
 func (this *MyCircularQueue) Rear() int {
@@ -43,15 +52,15 @@ func (this *MyCircularQueue) Rear() int {
 		return -1
 	}
 
-	return this.Q[len(this.Q)-1]
+	return this.data[this.tail]
 }
 
 func (this *MyCircularQueue) IsEmpty() bool {
-	return len(this.Q) == 0
+	return this.tail == -1
 }
 
 func (this *MyCircularQueue) IsFull() bool {
-	return len(this.Q) == this.Capacity
+	return !this.IsEmpty() && (this.tail+1)%this.maxSize == this.head
 }
 
 /**
