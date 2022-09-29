@@ -363,6 +363,7 @@ Please give this repo a ⭐ if it inspires you.
 |[985](https://leetcode.com/problems/sum-of-even-numbers-after-queries/)| Sum of Even Numbers After Queries|
 |[1680](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/)| Concatenation of Consecutive Binary Numbers|
 |[990](https://leetcode.com/problems/satisfiability-of-equality-equations/)| Satisfiability of Equality Equations|
+|[658](https://leetcode.com/problems/find-k-closest-elements/description/)| Find K Closest Elements|
 
 ## Hard
 |LC #|Description|
