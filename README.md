@@ -124,6 +124,7 @@ Please give this repo a ⭐ if it inspires you.
 |[88](https://leetcode.com/problems/merge-sorted-array/)| Merge Sorted Array|
 |[859](https://leetcode.com/problems/buddy-strings/)| Buddy Strings|
 |[557](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| Reverse Words in a String III|
+|[976](https://leetcode.com/problems/largest-perimeter-triangle/)| Largest Perimeter Triangle|
 
 ## Medium
 |LC #|Description|
