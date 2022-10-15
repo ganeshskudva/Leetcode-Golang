@@ -368,6 +368,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1578](https://leetcode.com/problems/minimum-time-to-make-rope-colorful/description/)| Minimum Time to Make Rope Colorful|
 |[16](https://leetcode.com/problems/3sum-closest/description/)| 3Sum Closest|
 |[334](https://leetcode.com/problems/increasing-triplet-subsequence/)| Increasing Triplet Subsequence|
+|[2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)| Delete the Middle Node of a Linked List|
 
 ## Hard
 |LC #|Description|
