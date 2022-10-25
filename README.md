@@ -370,6 +370,7 @@ Please give this repo a ⭐ if it inspires you.
 |[16](https://leetcode.com/problems/3sum-closest/description/)| 3Sum Closest|
 |[334](https://leetcode.com/problems/increasing-triplet-subsequence/)| Increasing Triplet Subsequence|
 |[2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)| Delete the Middle Node of a Linked List|
+|[1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)| Check If Two String Arrays are Equivalent|
 
 ## Hard
 |LC #|Description|
