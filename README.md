@@ -372,6 +372,7 @@ Please give this repo a ⭐ if it inspires you.
 |[2095](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)| Delete the Middle Node of a Linked List|
 |[1662](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)| Check If Two String Arrays are Equivalent|
 |[523](https://leetcode.com/problems/continuous-subarray-sum/)| Continuous Subarray Sum|
+|[835](https://leetcode.com/problems/image-overlap/)| Image Overlap|
 
 ## Hard
 |LC #|Description|
