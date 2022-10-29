@@ -425,3 +425,4 @@ Please give this repo a ⭐ if it inspires you.
 |[1531](https://leetcode.com/problems/string-compression-ii/)| String Compression II|
 |[1335](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)| Minimum Difficulty of a Job Schedule|
 |[76](https://leetcode.com/problems/minimum-window-substring/)| Minimum Window Substring|
+|[2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)| Earliest Possible Day of Full Bloom|
