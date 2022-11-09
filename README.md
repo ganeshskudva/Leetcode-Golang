@@ -126,6 +126,7 @@ Please give this repo a ⭐ if it inspires you.
 |[557](https://leetcode.com/problems/reverse-words-in-a-string-iii/)| Reverse Words in a String III|
 |[976](https://leetcode.com/problems/largest-perimeter-triangle/)| Largest Perimeter Triangle|
 |[219](https://leetcode.com/problems/contains-duplicate-ii/)| Contains Duplicate II|
+|[1544](https://leetcode.com/problems/make-the-string-great/)| Make The String Great|
 
 ## Medium
 |LC #|Description|
