@@ -127,6 +127,7 @@ Please give this repo a ⭐ if it inspires you.
 |[976](https://leetcode.com/problems/largest-perimeter-triangle/)| Largest Perimeter Triangle|
 |[219](https://leetcode.com/problems/contains-duplicate-ii/)| Contains Duplicate II|
 |[1544](https://leetcode.com/problems/make-the-string-great/)| Make The String Great|
+|[1323](https://leetcode.com/problems/maximum-69-number/)| Maximum 69 Number|
 
 ## Medium
 |LC #|Description|
