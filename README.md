@@ -128,6 +128,7 @@ Please give this repo a ⭐ if it inspires you.
 |[219](https://leetcode.com/problems/contains-duplicate-ii/)| Contains Duplicate II|
 |[1544](https://leetcode.com/problems/make-the-string-great/)| Make The String Great|
 |[1323](https://leetcode.com/problems/maximum-69-number/)| Maximum 69 Number|
+|[2325](https://leetcode.com/problems/decode-the-message/)| Decode the Message|
 
 ## Medium
 |LC #|Description|
