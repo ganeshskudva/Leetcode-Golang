@@ -377,6 +377,7 @@ Please give this repo a ⭐ if it inspires you.
 |[523](https://leetcode.com/problems/continuous-subarray-sum/)| Continuous Subarray Sum|
 |[835](https://leetcode.com/problems/image-overlap/)| Image Overlap|
 |[433](https://leetcode.com/problems/minimum-genetic-mutation/)| Minimum Genetic Mutation|
+|[1926](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)| Nearest Exit from Entrance in Maze|
 
 ## Hard
 |LC #|Description|
