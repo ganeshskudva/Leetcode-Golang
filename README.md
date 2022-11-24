@@ -431,3 +431,4 @@ Please give this repo a ⭐ if it inspires you.
 |[1335](https://leetcode.com/problems/minimum-difficulty-of-a-job-schedule/)| Minimum Difficulty of a Job Schedule|
 |[76](https://leetcode.com/problems/minimum-window-substring/)| Minimum Window Substring|
 |[2136](https://leetcode.com/problems/earliest-possible-day-of-full-bloom/)| Earliest Possible Day of Full Bloom|
+|[2193](https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/)| Minimum Number of Moves to Make Palindrome|
