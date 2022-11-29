@@ -379,6 +379,7 @@ Please give this repo a ⭐ if it inspires you.
 |[433](https://leetcode.com/problems/minimum-genetic-mutation/)| Minimum Genetic Mutation|
 |[1926](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)| Nearest Exit from Entrance in Maze|
 |[2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)| Find Players With Zero or One Losses|
+|[380](https://leetcode.com/problems/insert-delete-getrandom-o1/)| Insert Delete GetRandom O(1)|
 
 ## Hard
 |LC #|Description|
