@@ -381,6 +381,7 @@ Please give this repo a ⭐ if it inspires you.
 |[2225](https://leetcode.com/problems/find-players-with-zero-or-one-losses/)| Find Players With Zero or One Losses|
 |[380](https://leetcode.com/problems/insert-delete-getrandom-o1/)| Insert Delete GetRandom O(1)|
 |[1207](https://leetcode.com/problems/unique-number-of-occurrences/)| Unique Number of Occurrences|
+|[45](https://leetcode.com/problems/jump-game-ii/)| Jump Game II|
 
 ## Hard
 |LC #|Description|
