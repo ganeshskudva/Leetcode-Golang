@@ -129,6 +129,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1544](https://leetcode.com/problems/make-the-string-great/)| Make The String Great|
 |[1323](https://leetcode.com/problems/maximum-69-number/)| Maximum 69 Number|
 |[2325](https://leetcode.com/problems/decode-the-message/)| Decode the Message|
+|[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| Best Time to Buy and Sell Stock|
 
 ## Medium
 |LC #|Description|
