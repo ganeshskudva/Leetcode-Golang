@@ -382,6 +382,7 @@ Please give this repo a ⭐ if it inspires you.
 |[380](https://leetcode.com/problems/insert-delete-getrandom-o1/)| Insert Delete GetRandom O(1)|
 |[1207](https://leetcode.com/problems/unique-number-of-occurrences/)| Unique Number of Occurrences|
 |[45](https://leetcode.com/problems/jump-game-ii/)| Jump Game II|
+|[1014](https://leetcode.com/problems/best-sightseeing-pair/)| Best Sightseeing Pair|
 
 ## Hard
 |LC #|Description|
