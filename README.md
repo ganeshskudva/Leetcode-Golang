@@ -130,11 +130,11 @@ Please give this repo a ⭐ if it inspires you.
 |[1323](https://leetcode.com/problems/maximum-69-number/)| Maximum 69 Number|
 |[2325](https://leetcode.com/problems/decode-the-message/)| Decode the Message|
 |[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| Best Time to Buy and Sell Stock|
-|[931](https://leetcode.com/problems/minimum-falling-path-sum/)| Minimum Falling Path Sum|
 
 ## Medium
 |LC #|Description|
 |:-:|:-|
+|[931](https://leetcode.com/problems/minimum-falling-path-sum/)| Minimum Falling Path Sum|
 |[946](https://leetcode.com/problems/validate-stack-sequences/)| Validate Stack Sequences|
 |[29](https://leetcode.com/problems/divide-two-integers/)| Divide Two Integers|
 |[820](https://leetcode.com/problems/short-encoding-of-words/)| Short Encoding of Words|
