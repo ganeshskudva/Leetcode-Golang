@@ -444,3 +444,4 @@ Please give this repo a ⭐ if it inspires you.
 |[1235](https://leetcode.com/problems/maximum-profit-in-job-scheduling/)| Maximum Profit in Job Scheduling|
 |[446](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)| Arithmetic Slices II - Subsequence|
 |[124](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| Binary Tree Maximum Path Sum|
+|[600](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)| Non-negative Integers without Consecutive Ones|
