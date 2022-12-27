@@ -388,6 +388,7 @@ Please give this repo a ⭐ if it inspires you.
 |[45](https://leetcode.com/problems/jump-game-ii/)| Jump Game II|
 |[1014](https://leetcode.com/problems/best-sightseeing-pair/)| Best Sightseeing Pair|
 |[886](https://leetcode.com/problems/possible-bipartition/)| Possible Bipartition|
+|[2279](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)| Maximum Bags With Full Capacity of Rocks|
 
 ## Hard
 |LC #|Description|
