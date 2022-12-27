@@ -390,6 +390,7 @@ Please give this repo a ⭐ if it inspires you.
 |[886](https://leetcode.com/problems/possible-bipartition/)| Possible Bipartition|
 |[2279](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)| Maximum Bags With Full Capacity of Rocks|
 |[343](https://leetcode.com/problems/integer-break/)| Integer Break|
+|[256](https://leetcode.com/problems/paint-house/)| Paint House|
 
 ## Hard
 |LC #|Description|
