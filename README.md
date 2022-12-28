@@ -391,6 +391,7 @@ Please give this repo a ⭐ if it inspires you.
 |[2279](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)| Maximum Bags With Full Capacity of Rocks|
 |[343](https://leetcode.com/problems/integer-break/)| Integer Break|
 |[256](https://leetcode.com/problems/paint-house/)| Paint House|
+|[487](https://leetcode.com/problems/max-consecutive-ones-ii/)| Max Consecutive Ones II|
 
 ## Hard
 |LC #|Description|
