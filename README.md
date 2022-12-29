@@ -453,3 +453,4 @@ Please give this repo a ⭐ if it inspires you.
 |[124](https://leetcode.com/problems/binary-tree-maximum-path-sum/)| Binary Tree Maximum Path Sum|
 |[600](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)| Non-negative Integers without Consecutive Ones|
 |[72](https://leetcode.com/problems/edit-distance/)|  Edit Distance|
+|[1340](https://leetcode.com/problems/jump-game-v/)|  Jump Game V|
