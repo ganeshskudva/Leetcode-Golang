@@ -394,6 +394,7 @@ Please give this repo a ⭐ if it inspires you.
 |[487](https://leetcode.com/problems/max-consecutive-ones-ii/)| Max Consecutive Ones II|
 |[1746](https://leetcode.com/problems/maximum-subarray-sum-after-one-operation/)| Maximum Subarray Sum After One Operation|
 |[1230](https://leetcode.com/problems/toss-strange-coins/)| Toss Strange Coins|
+|[2498](https://leetcode.com/problems/frog-jump-ii/)| Frog Jump II|
 
 ## Hard
 |LC #|Description|
