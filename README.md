@@ -454,3 +454,4 @@ Please give this repo a ⭐ if it inspires you.
 |[600](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/)| Non-negative Integers without Consecutive Ones|
 |[72](https://leetcode.com/problems/edit-distance/)|  Edit Distance|
 |[1340](https://leetcode.com/problems/jump-game-v/)|  Jump Game V|
+|[403](https://leetcode.com/problems/frog-jump/)|  Frog Jump|
