@@ -132,6 +132,7 @@ Please give this repo a ⭐ if it inspires you.
 |[121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| Best Time to Buy and Sell Stock|
 |[1971](https://leetcode.com/problems/find-if-path-exists-in-graph/)| Find if Path Exists in Graph|
 |[2389](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)| Longest Subsequence With Limited Sum|
+|[2073](https://leetcode.com/problems/time-needed-to-buy-tickets/)| Time Needed to Buy Tickets|
 
 ## Medium
 |LC #|Description|
