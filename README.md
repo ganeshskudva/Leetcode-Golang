@@ -399,6 +399,7 @@ Please give this repo a ⭐ if it inspires you.
 |[2498](https://leetcode.com/problems/frog-jump-ii/)| Frog Jump II|
 |[2244](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)| Minimum Rounds to Complete All Tasks|
 |[1749](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)| Maximum Absolute Sum of Any Subarray|
+|[2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)| Minimum Number of Steps to Make Two Strings Anagram II|
 
 ## Hard
 |LC #|Description|
