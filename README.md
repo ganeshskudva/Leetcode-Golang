@@ -462,3 +462,4 @@ Please give this repo a ⭐ if it inspires you.
 |[1340](https://leetcode.com/problems/jump-game-v/)|  Jump Game V|
 |[403](https://leetcode.com/problems/frog-jump/)|  Frog Jump|
 |[188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|  Best Time to Buy and Sell Stock IV|
+|[149](https://leetcode.com/problems/max-points-on-a-line/)|  Max Points on a Line|
