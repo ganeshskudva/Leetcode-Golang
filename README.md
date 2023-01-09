@@ -400,6 +400,7 @@ Please give this repo a ⭐ if it inspires you.
 |[2244](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/)| Minimum Rounds to Complete All Tasks|
 |[1749](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)| Maximum Absolute Sum of Any Subarray|
 |[2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)| Minimum Number of Steps to Make Two Strings Anagram II|
+|[2414](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/)| Length of the Longest Alphabetical Continuous Substring|
 
 ## Hard
 |LC #|Description|
