@@ -401,6 +401,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1749](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/)| Maximum Absolute Sum of Any Subarray|
 |[2186](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram-ii/)| Minimum Number of Steps to Make Two Strings Anagram II|
 |[2414](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/)| Length of the Longest Alphabetical Continuous Substring|
+|[1519](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)| Number of Nodes in the Sub-Tree With the Same Label|
 
 ## Hard
 |LC #|Description|
