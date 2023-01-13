@@ -466,3 +466,4 @@ Please give this repo a ⭐ if it inspires you.
 |[188](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/)|  Best Time to Buy and Sell Stock IV|
 |[149](https://leetcode.com/problems/max-points-on-a-line/)|  Max Points on a Line|
 |[140](https://leetcode.com/problems/word-break-ii/)|  Word Break II|
+|[1289](https://leetcode.com/problems/minimum-falling-path-sum-ii/)|  Minimum Falling Path Sum II|
