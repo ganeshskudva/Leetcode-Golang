@@ -403,6 +403,7 @@ Please give this repo a ⭐ if it inspires you.
 |[2414](https://leetcode.com/problems/length-of-the-longest-alphabetical-continuous-substring/)| Length of the Longest Alphabetical Continuous Substring|
 |[1519](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)| Number of Nodes in the Sub-Tree With the Same Label|
 |[1061](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)| Lexicographically Smallest Equivalent String|
+|[1314](https://leetcode.com/problems/matrix-block-sum/)| Matrix Block Sum|
 
 ## Hard
 |LC #|Description|
