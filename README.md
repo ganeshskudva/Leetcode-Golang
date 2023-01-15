@@ -470,3 +470,4 @@ Please give this repo a ⭐ if it inspires you.
 |[140](https://leetcode.com/problems/word-break-ii/)|  Word Break II|
 |[1289](https://leetcode.com/problems/minimum-falling-path-sum-ii/)|  Minimum Falling Path Sum II|
 |[2246](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)|   Longest Path With Different Adjacent Characters|
+|[2421](https://leetcode.com/problems/number-of-good-paths/)|   Number of Good Paths|
