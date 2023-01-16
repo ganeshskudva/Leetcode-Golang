@@ -404,6 +404,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1519](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/)| Number of Nodes in the Sub-Tree With the Same Label|
 |[1061](https://leetcode.com/problems/lexicographically-smallest-equivalent-string/)| Lexicographically Smallest Equivalent String|
 |[1314](https://leetcode.com/problems/matrix-block-sum/)| Matrix Block Sum|
+|[57](https://leetcode.com/problems/insert-interval/)| Insert Interval|
 
 ## Hard
 |LC #|Description|
