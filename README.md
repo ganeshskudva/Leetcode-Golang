@@ -406,6 +406,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1314](https://leetcode.com/problems/matrix-block-sum/)| Matrix Block Sum|
 |[57](https://leetcode.com/problems/insert-interval/)| Insert Interval|
 |[974](https://leetcode.com/problems/subarray-sums-divisible-by-k/)| Subarray Sums Divisible by K|
+|[491](https://leetcode.com/problems/non-decreasing-subsequences/)| Non-decreasing Subsequences|
 
 ## Hard
 |LC #|Description|
