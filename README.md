@@ -407,6 +407,7 @@ Please give this repo a ⭐ if it inspires you.
 |[57](https://leetcode.com/problems/insert-interval/)| Insert Interval|
 |[974](https://leetcode.com/problems/subarray-sums-divisible-by-k/)| Subarray Sums Divisible by K|
 |[491](https://leetcode.com/problems/non-decreasing-subsequences/)| Non-decreasing Subsequences|
+|[2359](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)| Find Closest Node to Given Two Nodes|
 
 ## Hard
 |LC #|Description|
