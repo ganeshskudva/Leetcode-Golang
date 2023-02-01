@@ -134,6 +134,7 @@ Please give this repo a ⭐ if it inspires you.
 |[2389](https://leetcode.com/problems/longest-subsequence-with-limited-sum/)| Longest Subsequence With Limited Sum|
 |[2073](https://leetcode.com/problems/time-needed-to-buy-tickets/)| Time Needed to Buy Tickets|
 |[697](https://leetcode.com/problems/degree-of-an-array/)| Degree of an Array|
+|[1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/)| Greatest Common Divisor of Strings|
 
 ## Medium
 |LC #|Description|
