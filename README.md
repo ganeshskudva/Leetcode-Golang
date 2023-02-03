@@ -411,6 +411,7 @@ Please give this repo a ⭐ if it inspires you.
 |[2359](https://leetcode.com/problems/find-closest-node-to-given-two-nodes/)| Find Closest Node to Given Two Nodes|
 |[909](https://leetcode.com/problems/snakes-and-ladders/)| Snakes and Ladders|
 |[787](https://leetcode.com/problems/cheapest-flights-within-k-stops/)| Cheapest Flights Within K Stops|
+|[6](https://leetcode.com/problems/zigzag-conversion/)| Zigzag Conversion|
 
 ## Hard
 |LC #|Description|
