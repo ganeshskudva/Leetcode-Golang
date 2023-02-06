@@ -135,6 +135,7 @@ Please give this repo a ⭐ if it inspires you.
 |[2073](https://leetcode.com/problems/time-needed-to-buy-tickets/)| Time Needed to Buy Tickets|
 |[697](https://leetcode.com/problems/degree-of-an-array/)| Degree of an Array|
 |[1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/)| Greatest Common Divisor of Strings|
+|[1470](https://leetcode.com/problems/shuffle-the-array/)| Shuffle the Array|
 
 ## Medium
 |LC #|Description|
