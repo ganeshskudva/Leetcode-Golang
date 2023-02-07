@@ -413,6 +413,7 @@ Please give this repo a ⭐ if it inspires you.
 |[909](https://leetcode.com/problems/snakes-and-ladders/)| Snakes and Ladders|
 |[787](https://leetcode.com/problems/cheapest-flights-within-k-stops/)| Cheapest Flights Within K Stops|
 |[6](https://leetcode.com/problems/zigzag-conversion/)| Zigzag Conversion|
+|[904](https://leetcode.com/problems/fruit-into-baskets/)| Fruit Into Baskets|
 
 ## Hard
 |LC #|Description|
