@@ -414,6 +414,7 @@ Please give this repo a ⭐ if it inspires you.
 |[787](https://leetcode.com/problems/cheapest-flights-within-k-stops/)| Cheapest Flights Within K Stops|
 |[6](https://leetcode.com/problems/zigzag-conversion/)| Zigzag Conversion|
 |[904](https://leetcode.com/problems/fruit-into-baskets/)| Fruit Into Baskets|
+|[1162](https://leetcode.com/problems/as-far-from-land-as-possible/)| As Far from Land as Possible|
 
 ## Hard
 |LC #|Description|
