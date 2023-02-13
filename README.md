@@ -136,6 +136,7 @@ Please give this repo a ⭐ if it inspires you.
 |[697](https://leetcode.com/problems/degree-of-an-array/)| Degree of an Array|
 |[1071](https://leetcode.com/problems/greatest-common-divisor-of-strings/)| Greatest Common Divisor of Strings|
 |[1470](https://leetcode.com/problems/shuffle-the-array/)| Shuffle the Array|
+|[1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)| Count Odd Numbers in an Interval Range|
 
 ## Medium
 |LC #|Description|
