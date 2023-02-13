@@ -416,6 +416,7 @@ Please give this repo a ⭐ if it inspires you.
 |[6](https://leetcode.com/problems/zigzag-conversion/)| Zigzag Conversion|
 |[904](https://leetcode.com/problems/fruit-into-baskets/)| Fruit Into Baskets|
 |[1162](https://leetcode.com/problems/as-far-from-land-as-possible/)| As Far from Land as Possible|
+|[2477](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)| Minimum Fuel Cost to Report to the Capital|
 
 ## Hard
 |LC #|Description|
