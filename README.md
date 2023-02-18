@@ -138,6 +138,7 @@ Please give this repo a ⭐ if it inspires you.
 |[1470](https://leetcode.com/problems/shuffle-the-array/)| Shuffle the Array|
 |[1523](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/)| Count Odd Numbers in an Interval Range|
 |[989](https://leetcode.com/problems/add-to-array-form-of-integer/)| Add to Array-Form of Integer|
+|[783](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)| Minimum Distance Between BST Nodes|
 
 ## Medium
 |LC #|Description|
