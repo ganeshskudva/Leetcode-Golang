@@ -1,4 +1,4 @@
-package Medium
+package Easy
 
 func min(a, b int) int {
 	if a < b {
