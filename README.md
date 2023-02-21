@@ -140,6 +140,7 @@ Please give this repo a ⭐ if it inspires you.
 |[989](https://leetcode.com/problems/add-to-array-form-of-integer/)| Add to Array-Form of Integer|
 |[783](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)| Minimum Distance Between BST Nodes|
 |[1137](https://leetcode.com/problems/n-th-tribonacci-number/)| N-th Tribonacci Number|
+|[746](https://leetcode.com/problems/min-cost-climbing-stairs/)| Min Cost Climbing Stairs|
 
 ## Medium
 |LC #|Description|
