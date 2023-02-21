@@ -16,3 +16,28 @@ func dp(mp map[int]int, n int) int {
 	
 	return mp[n]
 }
+
+// With anonymous function
+func climbStairs(n int) int {
+	mp := map[int]int{
+		0: 0,
+		1: 1,
+		2: 2,
+	}
+
+	var solve func(int) int
+	solve = func(n int) int {
+		if n < 0 {
+			return 0
+		}
+
+		if v, ok := mp[n]; ok {
+			return v
+		}
+
+		mp[n] = solve(n-1) + solve(n-2)
+		return mp[n]
+	}
+
+	return solve(n)
+}
