@@ -423,6 +423,7 @@ Please give this repo a ⭐ if it inspires you.
 |[2477](https://leetcode.com/problems/minimum-fuel-cost-to-report-to-the-capital/)| Minimum Fuel Cost to Report to the Capital|
 |[1129](https://leetcode.com/problems/shortest-path-with-alternating-colors/)| Shortest Path with Alternating Colors|
 |[103](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)| Binary Tree Zigzag Level Order Traversal|
+|[1011](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)| Capacity To Ship Packages Within D Days|
 
 ## Hard
 |LC #|Description|
