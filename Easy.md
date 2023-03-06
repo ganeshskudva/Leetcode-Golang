@@ -136,3 +136,4 @@
 |[783](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)| Minimum Distance Between BST Nodes|
 |[1137](https://leetcode.com/problems/n-th-tribonacci-number/)| N-th Tribonacci Number|
 |[746](https://leetcode.com/problems/min-cost-climbing-stairs/)| Min Cost Climbing Stairs|
+|[1539](https://leetcode.com/problems/kth-missing-positive-number/)| Kth Missing Positive Number|
