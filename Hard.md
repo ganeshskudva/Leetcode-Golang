@@ -64,4 +64,5 @@
 |[1289](https://leetcode.com/problems/minimum-falling-path-sum-ii/)|  Minimum Falling Path Sum II|
 |[2246](https://leetcode.com/problems/longest-path-with-different-adjacent-characters/)|   Longest Path With Different Adjacent Characters|
 |[2421](https://leetcode.com/problems/number-of-good-paths/)|   Number of Good Paths|
-|[472](https://leetcode.com/problems/concatenated-words/description/)|   Concatenated Words|
+|[472](https://leetcode.com/problems/concatenated-words/)|   Concatenated Words|
+|[2444](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)|   Count Subarrays With Fixed Bounds|
