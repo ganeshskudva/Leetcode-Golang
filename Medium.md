@@ -284,3 +284,4 @@
 |[652](https://leetcode.com/problems/find-duplicate-subtrees/)| Find Duplicate Subtrees|
 |[443](https://leetcode.com/problems/string-compression/)| String Compression|
 |[2187](https://leetcode.com/problems/minimum-time-to-complete-trips/)| Minimum Time to Complete Trips|
+|[958](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)| Check Completeness of a Binary Tree|
