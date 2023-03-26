@@ -287,3 +287,4 @@
 |[958](https://leetcode.com/problems/check-completeness-of-a-binary-tree/)| Check Completeness of a Binary Tree|
 |[2492](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities/)| Minimum Score of a Path Between Two Cities|
 |[1466](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|  Reorder Routes to Make All Paths Lead to the City Zero|
+|[2316](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)|  Count Unreachable Pairs of Nodes in an Undirected Graph|
