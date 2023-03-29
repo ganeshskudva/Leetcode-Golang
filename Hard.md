@@ -68,3 +68,4 @@
 |[2444](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/)|   Count Subarrays With Fixed Bounds|
 |[23](https://leetcode.com/problems/merge-k-sorted-lists/)|   Merge k Sorted Lists|
 |[2360](https://leetcode.com/problems/longest-cycle-in-a-graph/)|   Longest Cycle in a Graph|
+|[1402](https://leetcode.com/problems/reducing-dishes/)|   Reducing Dishes|
