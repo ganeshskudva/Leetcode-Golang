@@ -289,3 +289,4 @@
 |[1466](https://leetcode.com/problems/reorder-routes-to-make-all-paths-lead-to-the-city-zero/)|  Reorder Routes to Make All Paths Lead to the City Zero|
 |[2316](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)|  Count Unreachable Pairs of Nodes in an Undirected Graph|
 |[2405](https://leetcode.com/problems/optimal-partition-of-string/)|  Optimal Partition of String|
+|[2300](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|  Successful Pairs of Spells and Potions|
