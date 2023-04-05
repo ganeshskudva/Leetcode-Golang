@@ -290,3 +290,4 @@
 |[2316](https://leetcode.com/problems/count-unreachable-pairs-of-nodes-in-an-undirected-graph/)|  Count Unreachable Pairs of Nodes in an Undirected Graph|
 |[2405](https://leetcode.com/problems/optimal-partition-of-string/)|  Optimal Partition of String|
 |[2300](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|  Successful Pairs of Spells and Potions|
+|[2439](https://leetcode.com/problems/minimize-maximum-of-array/)|  Minimize Maximum of Array|
