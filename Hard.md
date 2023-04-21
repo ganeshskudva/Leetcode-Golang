@@ -71,3 +71,4 @@
 |[1402](https://leetcode.com/problems/reducing-dishes/)|   Reducing Dishes|
 |[87](https://leetcode.com/problems/scramble-string/)|   Scramble String|
 |[1857](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)|   Largest Color Value in a Directed Graph|
+|[879](https://leetcode.com/problems/profitable-schemes/)|  Profitable Schemes|
