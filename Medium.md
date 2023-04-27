@@ -292,3 +292,4 @@
 |[2300](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)|  Successful Pairs of Spells and Potions|
 |[2439](https://leetcode.com/problems/minimize-maximum-of-array/)|  Minimize Maximum of Array|
 |[516](https://leetcode.com/problems/longest-palindromic-subsequence/)|  Longest Palindromic Subsequence|
+|[319](https://leetcode.com/problems/bulb-switcher/)|  Bulb Switcher|
