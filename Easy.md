@@ -140,4 +140,5 @@
 |[101](https://leetcode.com/problems/symmetric-tree/)| Symmetric Tree|
 |[1768](https://leetcode.com/problems/merge-strings-alternately/)|  Merge Strings Alternately|
 |[1491](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|  Average Salary Excluding the Minimum and Maximum Salary|
+|[1822](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|  Sign of the Product of an Array|
 
