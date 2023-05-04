@@ -293,3 +293,4 @@
 |[2439](https://leetcode.com/problems/minimize-maximum-of-array/)|  Minimize Maximum of Array|
 |[516](https://leetcode.com/problems/longest-palindromic-subsequence/)|  Longest Palindromic Subsequence|
 |[319](https://leetcode.com/problems/bulb-switcher/)|  Bulb Switcher|
+|[649](https://leetcode.com/problems/dota2-senate/)|  Dota2 Senate|
