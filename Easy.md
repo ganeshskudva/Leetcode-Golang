@@ -142,4 +142,6 @@
 |[1491](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|  Average Salary Excluding the Minimum and Maximum Salary|
 |[1822](https://leetcode.com/problems/sign-of-the-product-of-an-array/)|  Sign of the Product of an Array|
 |[2215](https://leetcode.com/problems/find-the-difference-of-two-arrays/)|  Find the Difference of Two Arrays|
+|[1572](https://leetcode.com/problems/matrix-diagonal-sum/)|  Matrix Diagonal Sum|
+|[1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|  Maximum Number of Vowels in a Substring of Given Length|
 
