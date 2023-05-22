@@ -294,3 +294,4 @@
 |[516](https://leetcode.com/problems/longest-palindromic-subsequence/)|  Longest Palindromic Subsequence|
 |[319](https://leetcode.com/problems/bulb-switcher/)|  Bulb Switcher|
 |[649](https://leetcode.com/problems/dota2-senate/)|  Dota2 Senate|
+|[934](https://leetcode.com/problems/shortest-bridge/)|  Shortest Bridge|
