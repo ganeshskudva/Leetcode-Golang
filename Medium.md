@@ -295,3 +295,4 @@
 |[319](https://leetcode.com/problems/bulb-switcher/)|  Bulb Switcher|
 |[649](https://leetcode.com/problems/dota2-senate/)|  Dota2 Senate|
 |[934](https://leetcode.com/problems/shortest-bridge/)|  Shortest Bridge|
+|[1318](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/)|  Minimum Flips to Make a OR b Equal to c|
