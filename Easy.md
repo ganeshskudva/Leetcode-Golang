@@ -145,3 +145,4 @@
 |[1572](https://leetcode.com/problems/matrix-diagonal-sum/)|  Matrix Diagonal Sum|
 |[1456](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/)|  Maximum Number of Vowels in a Substring of Given Length|
 |[744](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|  Find Smallest Letter Greater Than Target|
+|[530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|  Minimum Absolute Difference in BST|
