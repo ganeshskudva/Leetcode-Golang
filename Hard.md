@@ -73,3 +73,4 @@
 |[1857](https://leetcode.com/problems/largest-color-value-in-a-directed-graph/)|   Largest Color Value in a Directed Graph|
 |[879](https://leetcode.com/problems/profitable-schemes/)|  Profitable Schemes|
 |[839](https://leetcode.com/problems/similar-string-groups/)|  Similar String Groups|
+|[2551](https://leetcode.com/problems/put-marbles-in-bags/)|  Put Marbles in Bags|
