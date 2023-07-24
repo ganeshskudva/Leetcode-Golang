@@ -302,4 +302,5 @@
 |[1218](https://leetcode.com/problems/longest-arithmetic-subsequence-of-given-difference/)|  Longest Arithmetic Subsequence of Given Difference|
 |[735](https://leetcode.com/problems/asteroid-collision/)|  Asteroid Collision|
 |[673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|  Number of Longest Increasing Subsequence|
+|[688](https://leetcode.com/problems/knight-probability-in-chessboard/)|  Knight Probability in Chessboard|
 
