@@ -304,3 +304,4 @@
 |[673](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)|  Number of Longest Increasing Subsequence|
 |[688](https://leetcode.com/problems/knight-probability-in-chessboard/)|  Knight Probability in Chessboard|
 |[852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|   Peak Index in a Mountain Array|
+|[852](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)|   Minimum Speed to Arrive on Time|
