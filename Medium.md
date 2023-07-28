@@ -305,3 +305,4 @@
 |[688](https://leetcode.com/problems/knight-probability-in-chessboard/)|  Knight Probability in Chessboard|
 |[852](https://leetcode.com/problems/peak-index-in-a-mountain-array/)|   Peak Index in a Mountain Array|
 |[852](https://leetcode.com/problems/minimum-speed-to-arrive-on-time/)|   Minimum Speed to Arrive on Time|
+|[486](https://leetcode.com/problems/predict-the-winner/)|   Predict the Winner|
