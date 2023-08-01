@@ -308,3 +308,4 @@
 |[486](https://leetcode.com/problems/predict-the-winner/)|   Predict the Winner|
 |[808](https://leetcode.com/problems/soup-servings/)|   Soup Servings|
 |[712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|   Minimum ASCII Delete Sum for Two Strings|
+|[77](https://leetcode.com/problems/combinations/)|   Combinations|
