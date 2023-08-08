@@ -310,3 +310,4 @@
 |[712](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/)|   Minimum ASCII Delete Sum for Two Strings|
 |[77](https://leetcode.com/problems/combinations/)|   Combinations|
 |[46](https://leetcode.com/problems/permutations/)|   Permutations|
+|[33](https://leetcode.com/problems/search-in-rotated-sorted-array/)|   Search in Rotated Sorted Array|
