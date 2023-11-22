@@ -315,3 +315,4 @@
 |[1615](https://leetcode.com/problems/maximal-network-rank/)|   Maximal Network Rank|
 |[767](https://leetcode.com/problems/reorganize-string/)|   Reorganize String|
 |[1424](https://leetcode.com/problems/diagonal-traverse-ii/)|   Diagonal Traverse II|
+|[1814](https://leetcode.com/problems/count-nice-pairs-in-an-array/)|   Count Nice Pairs in an Array|
