@@ -317,3 +317,4 @@
 |[1424](https://leetcode.com/problems/diagonal-traverse-ii/)|   Diagonal Traverse II|
 |[1814](https://leetcode.com/problems/count-nice-pairs-in-an-array/)|   Count Nice Pairs in an Array|
 |[1561](https://leetcode.com/problems/maximum-number-of-coins-you-can-get/)|   Maximum Number of Coins You Can Get|
+|[1630](https://leetcode.com/problems/arithmetic-subarrays/)|   Arithmetic Subarrays|
