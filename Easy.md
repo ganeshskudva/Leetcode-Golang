@@ -147,3 +147,4 @@
 |[744](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)|  Find Smallest Letter Greater Than Target|
 |[530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|  Minimum Absolute Difference in BST|
 |[111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|  Minimum Depth of Binary Tree|
+|[191](https://leetcode.com/problems/number-of-1-bits/)|  Number of 1 Bits|
