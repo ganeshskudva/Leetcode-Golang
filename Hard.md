@@ -78,3 +78,4 @@
 |[664](https://leetcode.com/problems/strange-printer/)|  Strange Printer|
 |[239](https://leetcode.com/problems/sliding-window-maximum/)|  Sliding Window Maximum|
 |[68](https://leetcode.com/problems/text-justification/)|  Text Justification|
+|[1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)|  Minimum One Bit Operations to Make Integers Zero|
