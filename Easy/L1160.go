@@ -1,25 +1,31 @@
 package Easy
 
 func countCharacters(words []string, chars string) int {
-    	res, cnt := 0, make([]int, 26)
+	var isMatch func(s string) bool
+	res := 0
 
-	for i := range chars {
-		cnt[chars[i]-'a']++
-	}
+	isMatch = func(s string) bool {
+		mp := make(map[byte]int)
 
-	for _, w := range words {
-		match, tmp := true, make([]int, 26)
-		copy(tmp, cnt)
+		for _, c := range chars {
+			mp[byte(c)]++
+		}
 
-		for i := range w {
-			tmp[w[i]-'a']--
-			if tmp[w[i]-'a'] < 0 {
-				match = false
-				break
+		for _, c := range s {
+			if _, ok := mp[byte(c)]; !ok {
+				return false
+			}
+			mp[byte(c)]--
+			if mp[byte(c)] < 0 {
+				return false
 			}
 		}
 
-		if match {
+		return true
+	}
+
+	for _, w := range words {
+		if isMatch(w) {
 			res += len(w)
 		}
 	}
