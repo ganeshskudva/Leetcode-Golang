@@ -148,3 +148,4 @@
 |[530](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|  Minimum Absolute Difference in BST|
 |[111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|  Minimum Depth of Binary Tree|
 |[191](https://leetcode.com/problems/number-of-1-bits/)|  Number of 1 Bits|
+|[2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)|  Largest 3-Same-Digit Number in String|
