@@ -149,3 +149,4 @@
 |[111](https://leetcode.com/problems/minimum-depth-of-binary-tree/)|  Minimum Depth of Binary Tree|
 |[191](https://leetcode.com/problems/number-of-1-bits/)|  Number of 1 Bits|
 |[2264](https://leetcode.com/problems/largest-3-same-digit-number-in-string/)|  Largest 3-Same-Digit Number in String|
+|[1266](https://leetcode.com/problems/minimum-time-visiting-all-points/)|  Minimum Time Visiting All Points|
