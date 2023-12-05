@@ -320,3 +320,4 @@
 |[1630](https://leetcode.com/problems/arithmetic-subarrays/)|   Arithmetic Subarrays|
 |[1685](https://leetcode.com/problems/sum-of-absolute-differences-in-a-sorted-array/)|   Sum of Absolute Differences in a Sorted Array|
 |[1727](https://leetcode.com/problems/largest-submatrix-with-rearrangements/)|   Largest Submatrix With Rearrangements|
+|[2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)|   Determine if a Cell Is Reachable at a Given Time|
