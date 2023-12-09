@@ -152,3 +152,5 @@
 |[1266](https://leetcode.com/problems/minimum-time-visiting-all-points/)|  Minimum Time Visiting All Points|
 |[1903](https://leetcode.com/problems/largest-odd-number-in-string/)|  Largest Odd Number in String|
 |[1716](https://leetcode.com/problems/calculate-money-in-leetcode-bank/)|  Calculate Money in Leetcode Bank|
+|[606](https://leetcode.com/problems/construct-string-from-binary-tree/)|  Construct String from Binary Tree|
+|[94](https://leetcode.com/problems/binary-tree-inorder-traversal/)|  Binary Tree Inorder Traversal|
