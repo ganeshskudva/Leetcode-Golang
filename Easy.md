@@ -155,3 +155,4 @@
 |[606](https://leetcode.com/problems/construct-string-from-binary-tree/)|  Construct String from Binary Tree|
 |[94](https://leetcode.com/problems/binary-tree-inorder-traversal/)|  Binary Tree Inorder Traversal|
 |[1287](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)|  Element Appearing More Than 25% In Sorted Array|
+|[1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|  Special Positions in a Binary Matrix|
