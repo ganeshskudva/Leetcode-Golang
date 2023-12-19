@@ -158,3 +158,4 @@
 |[1582](https://leetcode.com/problems/special-positions-in-a-binary-matrix/)|  Special Positions in a Binary Matrix|
 |[1436](https://leetcode.com/problems/destination-city/)|  Destination City|
 |[1512](https://leetcode.com/problems/number-of-good-pairs/)|  Number of Good Pairs|
+|[661](https://leetcode.com/problems/image-smoother/)|  Image Smoother|
