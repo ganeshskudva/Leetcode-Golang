@@ -160,3 +160,4 @@
 |[1512](https://leetcode.com/problems/number-of-good-pairs/)|  Number of Good Pairs|
 |[661](https://leetcode.com/problems/image-smoother/)|  Image Smoother|
 |[1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|  Maximum Product Difference Between Two Pairs|
+|[2706](https://leetcode.com/problems/buy-two-chocolates/)|  Buy Two Chocolates|
