@@ -323,3 +323,4 @@
 |[2849](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)|   Determine if a Cell Is Reachable at a Given Time|
 |[2842](https://leetcode.com/problems/difference-between-ones-and-zeros-in-row-and-column/)|   Difference Between Ones and Zeroes in Row and Column|
 |[2038](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)|   Remove Colored Pieces if Both Neighbors are the Same Color |
+|[1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|   Widest Vertical Area Between Two Points Containing No Points |
