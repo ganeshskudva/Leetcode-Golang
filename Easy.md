@@ -161,3 +161,4 @@
 |[661](https://leetcode.com/problems/image-smoother/)|  Image Smoother|
 |[1913](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)|  Maximum Product Difference Between Two Pairs|
 |[2706](https://leetcode.com/problems/buy-two-chocolates/)|  Buy Two Chocolates|
+|[1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|  Maximum Score After Splitting a String|
