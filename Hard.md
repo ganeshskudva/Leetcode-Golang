@@ -79,3 +79,4 @@
 |[239](https://leetcode.com/problems/sliding-window-maximum/)|  Sliding Window Maximum|
 |[68](https://leetcode.com/problems/text-justification/)|  Text Justification|
 |[1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)|  Minimum One Bit Operations to Make Integers Zero|
+|[1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)|  Max Dot Product of Two Subsequences|
