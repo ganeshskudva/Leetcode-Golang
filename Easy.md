@@ -164,3 +164,5 @@
 |[1422](https://leetcode.com/problems/maximum-score-after-splitting-a-string/)|  Maximum Score After Splitting a String|
 |[1758](https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/)|  Minimum Changes To Make Alternating Binary String|
 |[1496](https://leetcode.com/problems/path-crossing/)|  Path Crossing|
+|[1897](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)| Redistribute Characters to Make All Strings Equal|
+|[1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)| Largest Substring Between Two Equal Characters|
