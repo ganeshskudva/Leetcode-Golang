@@ -325,3 +325,4 @@
 |[2038](https://leetcode.com/problems/remove-colored-pieces-if-both-neighbors-are-the-same-color/)|   Remove Colored Pieces if Both Neighbors are the Same Color |
 |[1637](https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/)|   Widest Vertical Area Between Two Points Containing No Points |
 |[2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)|   Convert an Array Into a 2D Array With Conditions |
+|[2125](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|   Number of Laser Beams in a Bank |
