@@ -167,3 +167,4 @@
 |[1897](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)| Redistribute Characters to Make All Strings Equal|
 |[1624](https://leetcode.com/problems/largest-substring-between-two-equal-characters/)| Largest Substring Between Two Equal Characters|
 |[455](https://leetcode.com/problems/assign-cookies/)|  Assign Cookies|
+|[501](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|  Find Mode in Binary Search Tree|
