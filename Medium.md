@@ -327,3 +327,4 @@
 |[2610](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)|   Convert an Array Into a 2D Array With Conditions |
 |[2125](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|   Number of Laser Beams in a Bank |
 |[2870](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)|   Minimum Number of Operations to Make Array Empty |
+|[2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)|   Amount of Time for Binary Tree to Be Infected |
