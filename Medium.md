@@ -328,3 +328,4 @@
 |[2125](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/)|   Number of Laser Beams in a Bank |
 |[2870](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-empty/)|   Minimum Number of Operations to Make Array Empty |
 |[2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)|   Amount of Time for Binary Tree to Be Infected |
+|[1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/description/)|   Minimum Number of Steps to Make Two Strings Anagram |
