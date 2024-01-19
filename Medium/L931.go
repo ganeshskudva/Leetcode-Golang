@@ -1,36 +1,32 @@
 package Medium
 
 func minFallingPathSum(matrix [][]int) int {
-	rows, cols := len(matrix), len(matrix[0])
-	mp, ans := make(map[string]int), math.MaxInt32
+	var (
+		solve func(row, col int) int
+	)
+	cols, mp, res := len(matrix[0]), make(map[string]int), math.MaxInt32
 
-	for c := 0; c < cols; c++ {
-		ans = min(ans, solve(matrix, rows-1, c, mp))
+	solve = func(row, col int) int {
+		if col >= cols || col < 0 {
+			return math.MaxInt32
+		}
+
+		key := fmt.Sprintf("%d#%d", row, col)
+		if v, ok := mp[key]; ok {
+			return v
+		}
+
+		if row == len(matrix)-1 && col < cols {
+			return matrix[row][col]
+		}
+
+		mp[key] = matrix[row][col] + min(solve(row+1, col-1), min(solve(row+1, col), solve(row+1, col+1)))
+		return mp[key]
 	}
 
-	return ans
-}
-
-func solve(matrix [][]int, r, c int, mp map[string]int) int {
-	if r == 0 && c < len(matrix[0]) && c >= 0 {
-		return matrix[r][c]
-	}
-	if c >= len(matrix[0]) || c < 0 {
-		return math.MaxInt32
-	}
-	key := fmt.Sprintf("%d-%d", r, c)
-	if v, ok := mp[key]; ok {
-		return v
+	for i := 0; i < cols; i++ {
+		res = min(res, solve(0, i))
 	}
 
-	mp[key] = matrix[r][c] + min(min(solve(matrix, r-1, c+1, mp), solve(matrix, r-1, c, mp)), solve(matrix, r-1, c-1, mp))
-	return mp[key]
-}
-
-func min(a, b int) int {
-	if a < b {
-		return a
-	}
-
-	return b
+	return res
 }
