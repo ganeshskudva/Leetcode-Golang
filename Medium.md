@@ -331,3 +331,4 @@
 |[2385](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected/)|   Amount of Time for Binary Tree to Be Infected |
 |[1347](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|   Minimum Number of Steps to Make Two Strings Anagram |
 |[1657](https://leetcode.com/problems/determine-if-two-strings-are-close/)|   Determine if Two Strings Are Close |
+|[2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)|   Divide Array Into Arrays With Max Difference |
