@@ -170,3 +170,4 @@
 |[501](https://leetcode.com/problems/find-mode-in-binary-search-tree/)|  Find Mode in Binary Search Tree|
 |[872](https://leetcode.com/problems/leaf-similar-trees/)|  Leaf-Similar Trees|
 |[119](https://leetcode.com/problems/pascals-triangle-ii/)|  Pascal's Triangle II|
+|[1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|  Number of Students Unable to Eat Lunch|
