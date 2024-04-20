@@ -334,3 +334,4 @@
 |[2966](https://leetcode.com/problems/divide-array-into-arrays-with-max-difference/)|   Divide Array Into Arrays With Max Difference |
 |[988](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|   Smallest String Starting From Leaf |
 |[200](https://leetcode.com/problems/number-of-islands/)|   Number of Islands |
+|[1992](https://leetcode.com/problems/find-all-groups-of-farmland/)|   Find All Groups of Farmland |
