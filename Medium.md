@@ -335,3 +335,4 @@
 |[988](https://leetcode.com/problems/smallest-string-starting-from-leaf/)|   Smallest String Starting From Leaf |
 |[200](https://leetcode.com/problems/number-of-islands/)|   Number of Islands |
 |[1992](https://leetcode.com/problems/find-all-groups-of-farmland/)|   Find All Groups of Farmland |
+|[752](https://leetcode.com/problems/open-the-lock/)|   Open the Lock |
