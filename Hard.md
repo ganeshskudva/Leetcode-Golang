@@ -81,3 +81,4 @@
 |[1611](https://leetcode.com/problems/minimum-one-bit-operations-to-make-integers-zero/)|  Minimum One Bit Operations to Make Integers Zero|
 |[1458](https://leetcode.com/problems/max-dot-product-of-two-subsequences/)|  Max Dot Product of Two Subsequences|
 |[1793](https://leetcode.com/problems/maximum-score-of-a-good-subarray/)|  Maximum Score of a Good Subarray|
+|[514](https://leetcode.com/problems/freedom-trail/)|  Freedom Trail|
