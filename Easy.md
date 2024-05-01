@@ -172,3 +172,4 @@
 |[119](https://leetcode.com/problems/pascals-triangle-ii/)|  Pascal's Triangle II|
 |[1700](https://leetcode.com/problems/number-of-students-unable-to-eat-lunch/)|  Number of Students Unable to Eat Lunch|
 |[678](https://leetcode.com/problems/valid-parenthesis-string/)|  Valid Parenthesis String|
+|[2000](https://leetcode.com/problems/reverse-prefix-of-word/)|  Reverse Prefix of Word|
