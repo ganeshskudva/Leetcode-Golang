@@ -339,3 +339,4 @@
 |[2997](https://leetcode.com/problems/minimum-number-of-operations-to-make-array-xor-equal-to-k/)|   Minimum Number of Operations to Make Array XOR Equal to K |
 |[1915](https://leetcode.com/problems/number-of-wonderful-substrings/)|   Number of Wonderful Substrings |
 |[165](https://leetcode.com/problems/compare-version-numbers/)|   Compare Version Numbers |
+|[1492](https://leetcode.com/problems/the-kth-factor-of-n/)|   The kth Factor of n |
