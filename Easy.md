@@ -174,3 +174,4 @@
 |[678](https://leetcode.com/problems/valid-parenthesis-string/)|  Valid Parenthesis String|
 |[2000](https://leetcode.com/problems/reverse-prefix-of-word/)|  Reverse Prefix of Word|
 |[2441](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/)|  Largest Positive Integer That Exists With Its Negative|
+|[2373](https://leetcode.com/problems/largest-local-values-in-a-matrix/)|  Largest Local Values in a Matrix|
