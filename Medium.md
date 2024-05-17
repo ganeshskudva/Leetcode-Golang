@@ -342,3 +342,4 @@
 |[1492](https://leetcode.com/problems/the-kth-factor-of-n/)|   The kth Factor of n |
 |[861](https://leetcode.com/problems/score-after-flipping-matrix/)|   Score After Flipping Matrix |
 |[1219](https://leetcode.com/problems/path-with-maximum-gold/)|   Path with Maximum Gold |
+|[1325](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|   Delete Leaves With a Given Value |
