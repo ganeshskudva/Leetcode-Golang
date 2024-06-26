@@ -343,3 +343,4 @@
 |[861](https://leetcode.com/problems/score-after-flipping-matrix/)|   Score After Flipping Matrix |
 |[1219](https://leetcode.com/problems/path-with-maximum-gold/)|   Path with Maximum Gold |
 |[1325](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|   Delete Leaves With a Given Value |
+|[1382](https://leetcode.com/problems/balance-a-binary-search-tree/)|   Balance a Binary Search Tree |
