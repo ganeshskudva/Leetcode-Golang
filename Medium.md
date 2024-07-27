@@ -344,3 +344,4 @@
 |[1219](https://leetcode.com/problems/path-with-maximum-gold/)|   Path with Maximum Gold |
 |[1325](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|   Delete Leaves With a Given Value |
 |[1382](https://leetcode.com/problems/balance-a-binary-search-tree/)|   Balance a Binary Search Tree |
+|[2390](https://leetcode.com/problems/removing-stars-from-a-string/)|   Removing Stars From a String |
