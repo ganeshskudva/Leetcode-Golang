@@ -1,11 +1,15 @@
-class Solution:
-    def removeStars(self, s: str) -> str:
-        st = []
+package Medium
 
-        for c in s:
-            if c != '*':
-                st.append(c)
-            elif st:
-                st.pop()
+func removeStars(s string) string {
+	st := []rune{}
 
-        return ''.join(st)
+	for _, c := range s {
+		if c != '*' {
+			st = append(st, c)
+		} else if len(st) > 0 {
+			st = st[:len(st)-1]
+		}
+	}
+
+	return string(st)
+}
