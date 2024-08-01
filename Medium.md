@@ -346,3 +346,4 @@
 |[1382](https://leetcode.com/problems/balance-a-binary-search-tree/)|   Balance a Binary Search Tree |
 |[2390](https://leetcode.com/problems/removing-stars-from-a-string/)|   Removing Stars From a String |
 |[1834](https://leetcode.com/problems/single-threaded-cpu/)|   Single-Threaded CPU |
+|[2](https://leetcode.com/problems/add-two-numbers/)|   Add Two Numbers |
